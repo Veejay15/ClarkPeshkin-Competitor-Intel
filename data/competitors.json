@@ -1,14 +1,6 @@
 {
   "competitors": [
     {
-      "id": "lambattorneys-com",
-      "name": "Lamb Law Offices",
-      "domain": "https://www.lambattorneys.com/",
-      "sitemapUrl": "https://www.lambattorneys.com/sitemap.xml",
-      "addedAt": "2026-05-06",
-      "active": true
-    },
-    {
       "id": "dukelawfirm-net",
       "name": "Duke Law Firm, P.C.",
       "domain": "https://www.dukelawfirm.net/",
