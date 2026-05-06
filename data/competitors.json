@@ -1,0 +1,36 @@
+{
+  "competitors": [
+    {
+      "id": "cimino-law-com",
+      "name": "Cimino Law Firm",
+      "domain": "https://cimino-law.com/",
+      "sitemapUrl": "https://cimino-law.com/sitemap.xml",
+      "addedAt": "2026-05-06",
+      "active": true
+    },
+    {
+      "id": "marinolawgroup-com",
+      "name": "Marino Law Group",
+      "domain": "https://www.marinolawgroup.com/",
+      "sitemapUrl": "https://www.marinolawgroup.com/sitemap.xml",
+      "addedAt": "2026-05-06",
+      "active": true
+    },
+    {
+      "id": "lambattorneys-com",
+      "name": "Lamb Law Offices",
+      "domain": "https://www.lambattorneys.com/",
+      "sitemapUrl": "https://www.lambattorneys.com/sitemap.xml",
+      "addedAt": "2026-05-06",
+      "active": true
+    },
+    {
+      "id": "dukelawfirm-net",
+      "name": "Duke Law Firm, P.C.",
+      "domain": "https://www.dukelawfirm.net/",
+      "sitemapUrl": "https://www.dukelawfirm.net/sitemap.xml",
+      "addedAt": "2026-05-06",
+      "active": true
+    }
+  ]
+}
