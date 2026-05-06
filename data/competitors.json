@@ -1,12 +1,3 @@
 {
-  "competitors": [
-    {
-      "id": "dukelawfirm-net",
-      "name": "Duke Law Firm, P.C.",
-      "domain": "https://www.dukelawfirm.net/",
-      "sitemapUrl": "https://www.dukelawfirm.net/sitemap.xml",
-      "addedAt": "2026-05-06",
-      "active": true
-    }
-  ]
+  "competitors": []
 }
