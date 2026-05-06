@@ -1,3 +1,12 @@
 {
-  "competitors": []
+  "competitors": [
+    {
+      "id": "www-tullylegal-com",
+      "name": "Tully Legal",
+      "domain": "https://www.tullylegal.com/",
+      "sitemapUrl": "https://www.tullylegal.com/sitemap.xml",
+      "addedAt": "2026-05-06",
+      "active": true
+    }
+  ]
 }
