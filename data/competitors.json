@@ -1,14 +1,6 @@
 {
   "competitors": [
     {
-      "id": "marinolawgroup-com",
-      "name": "Marino Law Group",
-      "domain": "https://www.marinolawgroup.com/",
-      "sitemapUrl": "https://www.marinolawgroup.com/sitemap.xml",
-      "addedAt": "2026-05-06",
-      "active": true
-    },
-    {
       "id": "lambattorneys-com",
       "name": "Lamb Law Offices",
       "domain": "https://www.lambattorneys.com/",
