@@ -1,14 +1,6 @@
 {
   "competitors": [
     {
-      "id": "cimino-law-com",
-      "name": "Cimino Law Firm",
-      "domain": "https://cimino-law.com/",
-      "sitemapUrl": "https://cimino-law.com/sitemap.xml",
-      "addedAt": "2026-05-06",
-      "active": true
-    },
-    {
       "id": "marinolawgroup-com",
       "name": "Marino Law Group",
       "domain": "https://www.marinolawgroup.com/",
