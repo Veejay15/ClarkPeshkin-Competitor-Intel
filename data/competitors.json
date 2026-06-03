@@ -31,6 +31,14 @@
       "sitemapUrl": "https://www.jmlawfirm.com/sitemap.xml",
       "addedAt": "2026-06-03",
       "active": true
+    },
+    {
+      "id": "www-trevettcristo-com",
+      "name": "Trevett Cristo Attorneys",
+      "domain": "https://www.trevettcristo.com/",
+      "sitemapUrl": "https://www.trevettcristo.com/sitemap.xml",
+      "addedAt": "2026-06-03",
+      "active": true
     }
   ]
 }
