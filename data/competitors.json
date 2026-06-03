@@ -23,6 +23,14 @@
       "sitemapUrl": "https://www.evansfox.com/sitemap.xml",
       "addedAt": "2026-06-03",
       "active": true
+    },
+    {
+      "id": "www-jmlawfirm-com",
+      "name": "Marchioni & Associates LLC",
+      "domain": "https://www.jmlawfirm.com/",
+      "sitemapUrl": "https://www.jmlawfirm.com/sitemap.xml",
+      "addedAt": "2026-06-03",
+      "active": true
     }
   ]
 }
