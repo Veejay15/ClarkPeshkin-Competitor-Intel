@@ -5,7 +5,7 @@
       "filename": "seranking-backlinks-www-tullylegal-com.json",
       "competitorId": "www-tullylegal-com",
       "type": "backlinks",
-      "rowCount": 30,
+      "rowCount": 100,
       "topRows": [
         {
           "source_page": "https://marcomworld.com/article/910906134-tully-rinckey-pllc-named-among-top-law-firms-in-2026-times-union-best-of-the-capital-region-awards",
@@ -118,16 +118,6 @@
           "first_seen": "2026-05-29"
         },
         {
-          "source_page": "https://statulparalel.net/inlocuirea-armatei-cu-invadatori-straini/",
-          "source_page_title": "Înlocuirea armatei cu invadatori străini - Statul Paralel - Dăm pe față minciunile",
-          "target_page": "https://www.tullylegal.com/attorneys/sean-c-timmons/",
-          "anchor": "Sean Timmons",
-          "domain_authority": "5",
-          "page_authority": "0",
-          "nofollow": "no",
-          "first_seen": "2026-05-29"
-        },
-        {
           "source_page": "https://thecapitolreporter.com/article/913872256-newly-expanded-canadian-citizenship-law-could-impact-u-s-security-clearance-holders-warns-national-security-attorney",
           "source_page_title": "Newly Expanded Canadian Citizenship Law Could Impact U.S. Security Clearance Holders, Warns National Security Attorney | The Capitol Reporter",
           "target_page": "http://www.tullylegal.com/attorneys/mathew-b-tully/",
@@ -135,6 +125,16 @@
           "domain_authority": "14",
           "page_authority": "0",
           "nofollow": "yes",
+          "first_seen": "2026-05-29"
+        },
+        {
+          "source_page": "https://statulparalel.net/inlocuirea-armatei-cu-invadatori-straini/",
+          "source_page_title": "Înlocuirea armatei cu invadatori străini - Statul Paralel - Dăm pe față minciunile",
+          "target_page": "https://www.tullylegal.com/attorneys/sean-c-timmons/",
+          "anchor": "Sean Timmons",
+          "domain_authority": "5",
+          "page_authority": "0",
+          "nofollow": "no",
           "first_seen": "2026-05-29"
         },
         {
@@ -546,8 +546,29 @@
       "filename": "seranking-backlinks-www-dcfesq-com.json",
       "competitorId": "www-dcfesq-com",
       "type": "backlinks",
-      "rowCount": 0,
-      "topRows": []
+      "rowCount": 2,
+      "topRows": [
+        {
+          "source_page": "https://www.justcauseny.org/volunteer",
+          "source_page_title": "Volunteer — JustCause",
+          "target_page": "http://dcfesq.com/",
+          "anchor": "Dentino, Cammarata, Fazio, LLP",
+          "domain_authority": "48",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-15"
+        },
+        {
+          "source_page": "https://pmc360.work/our-partners/",
+          "source_page_title": "Real Estate Partners in Rochester, NY",
+          "target_page": "https://www.dcfesq.com/",
+          "anchor": "dcfesq.com",
+          "domain_authority": "1",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-12"
+        }
+      ]
     },
     {
       "filename": "seranking-keywords-www-dcfesq-com.json",
@@ -836,8 +857,149 @@
       "filename": "seranking-backlinks-www-evansfox-com.json",
       "competitorId": "www-evansfox-com",
       "type": "backlinks",
-      "rowCount": 0,
-      "topRows": []
+      "rowCount": 14,
+      "topRows": [
+        {
+          "source_page": "https://patronscan.com/articles/best-id-scanner-for-small-venues/",
+          "source_page_title": "How to Choose the Best ID Scanner for Small Venues | Patronscan",
+          "target_page": "https://www.evansfox.com/retail-liquor-license/a-2024-update-on-new-york-state-liquor-authority-penalties/",
+          "anchor": "fines for a first-time underage service violation can reach $10,000 or more",
+          "domain_authority": "63",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-22"
+        },
+        {
+          "source_page": "https://lawyerslocally.com/new-york/rochester",
+          "source_page_title": "Find Lawyers in Rochester, NY | LawyersLocally.com",
+          "target_page": "https://www.evansfox.com/attorneys/jon-bonavilla/",
+          "anchor": "View Website",
+          "domain_authority": "8",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-20"
+        },
+        {
+          "source_page": "https://lawyerslocally.com/new-york/rochester",
+          "source_page_title": "Find Lawyers in Rochester, NY | LawyersLocally.com",
+          "target_page": "https://www.evansfox.com/attorneys/jared-hirt/",
+          "anchor": "View Website",
+          "domain_authority": "8",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-20"
+        },
+        {
+          "source_page": "https://servicespro.net/evans-fox-llp-your-trusted-partners-in-real-estate-law-empowering-clients-with-expertise-and-protection-evans-fox-llp-real-estate-lawyers/page/9/",
+          "source_page_title": "Evans Fox LLP: Your Trusted Partners in Real Estate Law - Empowering Clients with Expertise and Protection | Evans Fox LLP | Real Estate Lawyers",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "https://www.evansfox.com/",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-19"
+        },
+        {
+          "source_page": "http://www.fullclassical.com/domain-list-421",
+          "source_page_title": "fullclassical.com | few of top websites | page no. 421",
+          "target_page": "http://evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "6",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-15"
+        },
+        {
+          "source_page": "https://u.to/-3L7CA",
+          "source_page_title": "",
+          "target_page": "http://www.evansfox.com/",
+          "anchor": "",
+          "domain_authority": "86",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-14"
+        },
+        {
+          "source_page": "http://www.lifesblog.com/domain-list-404",
+          "source_page_title": "lifesblog.com | few of top websites | page no. 404",
+          "target_page": "http://evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "28",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-12"
+        },
+        {
+          "source_page": "https://bloomberry.com/data/userway/",
+          "source_page_title": "Companies that use Userway (active customer list)",
+          "target_page": "https://evansfox.com/",
+          "anchor": "Evans Fox LLP",
+          "domain_authority": "71",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-11"
+        },
+        {
+          "source_page": "http://www.newdirectory.org/domain-list-421",
+          "source_page_title": "newdirectory.org | few of top websites | page no. 421",
+          "target_page": "http://evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "27",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-08"
+        },
+        {
+          "source_page": "https://servicespro.net/evans-fox-llp-your-trusted-partners-in-real-estate-law-empowering-clients-with-expertise-and-protection-evans-fox-llp-real-estate-lawyers/page/8/",
+          "source_page_title": "Evans Fox LLP: Your Trusted Partners in Real Estate Law - Empowering Clients with Expertise and Protection | Evans Fox LLP | Real Estate Lawyers",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "https://www.evansfox.com/",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-08"
+        },
+        {
+          "source_page": "https://www.lifetimebuffalo.com/featured-links",
+          "source_page_title": "Featured Links",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "Evans & Fox LLP, responsive and personal attention for your legal needs",
+          "domain_authority": "4",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-07"
+        },
+        {
+          "source_page": "https://bizscoreai.com/listing/evans-fox-llp-rochester-ny/",
+          "source_page_title": "Evans Fox LLP - Rochester, NY - BizScoreAI",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "1",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-05"
+        },
+        {
+          "source_page": "https://bizscoreai.com/listing/evans-fox-llp-rochester-ny/",
+          "source_page_title": "Evans Fox LLP - Rochester, NY - BizScoreAI",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "Website",
+          "domain_authority": "1",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-05"
+        },
+        {
+          "source_page": "http://takes.sbs/domain/domain/part/81199",
+          "source_page_title": "seo domain research",
+          "target_page": "https://evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "64",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-04"
+        }
+      ]
     },
     {
       "filename": "seranking-keywords-www-evansfox-com.json",
@@ -1126,8 +1288,259 @@
       "filename": "seranking-backlinks-www-jmlawfirm-com.json",
       "competitorId": "www-jmlawfirm-com",
       "type": "backlinks",
-      "rowCount": 0,
-      "topRows": []
+      "rowCount": 27,
+      "topRows": [
+        {
+          "source_page": "http://factmags.com/anivzseo/monagasnoticias-best-seo-service/",
+          "source_page_title": "Directory Pages Index",
+          "target_page": "https://jmlawfirm.com/",
+          "anchor": "https://jmlaw-firm.com/",
+          "domain_authority": "22",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-20"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to/quick-cma/",
+          "source_page_title": "Quick CMA Feature | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-19"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to/media-privacy/",
+          "source_page_title": "Matrix Media Privacy | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-19"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to/oho-overview/",
+          "source_page_title": "OneHomeowner Overview (for Agents) | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-19"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to/boost-sales-with-rentspree/",
+          "source_page_title": "Boost Your Sales Leads with RentSpree (42 mins) | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-18"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to-tag/quick-cma/",
+          "source_page_title": "Quick CMA Archives | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/rochester-is-3-on-june-2025-top-20-hottest-housing-markets-list/",
+          "source_page_title": "Rochester is # 3 on June 2025 Top 20 Hottest Housing Markets list | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/rochester-is-5-on-august-2025-top-20-hottest-housing-markets-list/",
+          "source_page_title": "Rochester is # 5 on August 2025 Top 20 Hottest Housing Markets list | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/beyond/nominate/",
+          "source_page_title": "Beyond Awards: Nominations | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to-tag/media-privacy/",
+          "source_page_title": "Media privacy Archives | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to-tag/onehomeowner/",
+          "source_page_title": "OneHomeowner Archives | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to-category/oho-agents/",
+          "source_page_title": "OneHomeowner for Agents Archives | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to-tag/onehomeowner-hub/",
+          "source_page_title": "OneHomeowner hub Archives | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to-tag/onehomeowner-portal/",
+          "source_page_title": "OneHomeowner portal Archives | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/beyond-demo/",
+          "source_page_title": "Beyond Awards-DEMO | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/tips-how-to-category/oho/",
+          "source_page_title": "OneHomeowner Archives | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-16"
+        },
+        {
+          "source_page": "https://www.grar.org/dev2022/our-corporate-sponsors/",
+          "source_page_title": "Our Corporate Sponsors | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "http://jmlawfirm.com/",
+          "anchor": "jmlawfirm.com",
+          "domain_authority": "49",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-13"
+        },
+        {
+          "source_page": "https://www.scriptablesolutions.com/marchioni-associates",
+          "source_page_title": "Marchioni & Associates LLC | Portfolio | Scriptable Solutions",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "LAUNCH WEBSITE",
+          "domain_authority": "66",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-09"
+        },
+        {
+          "source_page": "https://treyjablinske.com/",
+          "source_page_title": "Trey - Web Developer & Designer",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni & Associates",
+          "domain_authority": "10",
+          "page_authority": "3",
+          "nofollow": "no",
+          "first_seen": "2026-05-07"
+        },
+        {
+          "source_page": "https://www.grar.org/broker-tools-forms/rr6antitrustlaws/",
+          "source_page_title": "rr6antitrustlaws | GRAR | Greater Rochester Association of Realtors",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "Marchioni and Associates Law Firm Logo",
+          "domain_authority": "50",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-06"
+        },
+        {
+          "source_page": "https://www.lawyerland.com/lawyers/law-firms/real-estate/landlord-tenant/rochester/ny/",
+          "source_page_title": "Rochester Landlord-Tenant Lawyers | Top Attorneys in Rochester, NY",
+          "target_page": "http://jmlawfirm.com/",
+          "anchor": "http://jmlawfirm.com",
+          "domain_authority": "77",
+          "page_authority": "16",
+          "nofollow": "yes",
+          "first_seen": "2026-05-06"
+        },
+        {
+          "source_page": "https://www.lawyerland.com/lawyers/law-firms/real-estate/landlord-tenant/buffalo/ny/",
+          "source_page_title": "Buffalo Landlord-Tenant Lawyers | Top Attorneys in Buffalo, NY",
+          "target_page": "http://jmlawfirm.com/",
+          "anchor": "http://jmlawfirm.com",
+          "domain_authority": "77",
+          "page_authority": "16",
+          "nofollow": "yes",
+          "first_seen": "2026-05-06"
+        },
+        {
+          "source_page": "https://www.lawyerland.com/lawyers/law-firms/estate-planning/probate/buffalo/ny/",
+          "source_page_title": "Buffalo Probate Lawyers | Top Attorneys in Buffalo, NY",
+          "target_page": "http://jmlawfirm.com/",
+          "anchor": "http://jmlawfirm.com",
+          "domain_authority": "77",
+          "page_authority": "16",
+          "nofollow": "yes",
+          "first_seen": "2026-05-05"
+        },
+        {
+          "source_page": "https://www.lawyerland.com/lawyers/law-firms/estate-planning/estate-planning/rochester/ny/",
+          "source_page_title": "Rochester Estate Planning Lawyers | Top Attorneys in Rochester, NY",
+          "target_page": "http://jmlawfirm.com/",
+          "anchor": "http://jmlawfirm.com",
+          "domain_authority": "77",
+          "page_authority": "15",
+          "nofollow": "yes",
+          "first_seen": "2026-05-04"
+        },
+        {
+          "source_page": "https://www.lawyerland.com/lawyers/law-firms/estate-planning/living-wills/rochester/ny/",
+          "source_page_title": "Rochester Living Wills Lawyers | Top Attorneys in Rochester, NY",
+          "target_page": "http://jmlawfirm.com/",
+          "anchor": "http://jmlawfirm.com",
+          "domain_authority": "77",
+          "page_authority": "16",
+          "nofollow": "yes",
+          "first_seen": "2026-05-04"
+        }
+      ]
     },
     {
       "filename": "seranking-keywords-www-jmlawfirm-com.json",
@@ -1416,7 +1829,7 @@
       "filename": "seranking-backlinks-www-trevettcristo-com.json",
       "competitorId": "www-trevettcristo-com",
       "type": "backlinks",
-      "rowCount": 1,
+      "rowCount": 5,
       "topRows": [
         {
           "source_page": "https://hostlist.io/host/fill-in-the-blank-llc-dallas-usa",
@@ -1427,6 +1840,46 @@
           "page_authority": "0",
           "nofollow": "yes",
           "first_seen": "2026-06-01"
+        },
+        {
+          "source_page": "https://www.101settlement.com/personal-injury-attorneys/listing/5dfaea9f63ab618982b6350f2281e4e6/",
+          "source_page_title": "Trevett Cristo (Rochester, NY Personal Injury Attorney) - 101Settlement",
+          "target_page": "https://www.trevettcristo.com/",
+          "anchor": "https://www.trevettcristo.com",
+          "domain_authority": "51",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-05-21"
+        },
+        {
+          "source_page": "https://findmyaccidentlawyer.com/firms/trevett-cristo-salzer-andolina-p-c",
+          "source_page_title": "Trevett Cristo Salzer & Andolina P.C. — FMAL Score 46 | Rochester, NY | Find My Accident Lawyer",
+          "target_page": "https://trevettcristo.com/",
+          "anchor": "Visit Website →",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-19"
+        },
+        {
+          "source_page": "https://www.americastop50lawyers.com/product-page/william-n-laforte-america-s-top-50-lawyers-real-estate-new-york",
+          "source_page_title": "William N. LaForte - America's Top 50 Lawyers - Real Estate - New York | Americastop50lawyers",
+          "target_page": "https://www.trevettcristo.com/attorneys/william-n-laforte",
+          "anchor": "Click here to visit website",
+          "domain_authority": "52",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-07"
+        },
+        {
+          "source_page": "https://udlvirtual.esad.edu.br/family-court-attorney-rochester-ny/",
+          "source_page_title": "Family Court Attorney Rochester Ny - udlvirtual.esad.edu.br",
+          "target_page": "https://www.trevettcristo.com/sites/default/files/attorney-banner-hires.png",
+          "anchor": "Attorneys Rochester NY",
+          "domain_authority": "62",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-05-04"
         }
       ]
     },
