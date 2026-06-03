@@ -60,6 +60,14 @@ jobs:
         if: steps.check.outputs.skip != 'true'
         run: npm run process:csvs
 
+      - name: Fetch backlinks and keywords from SE Ranking
+        if: steps.check.outputs.skip != 'true'
+        env:
+          SERANKING_API_KEY: ${{ secrets.SERANKING_API_KEY }}
+          SERANKING_SOURCE: ${{ vars.SERANKING_SOURCE }}
+          SERANKING_BACKLINK_DAYS: ${{ vars.SERANKING_BACKLINK_DAYS }}
+        run: npm run fetch:seranking
+
       - name: Generate report with Claude
         if: steps.check.outputs.skip != 'true'
         env:
