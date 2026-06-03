@@ -11,7 +11,7 @@ import {
 const ROOT = process.cwd();
 const TODAY = new Date().toISOString().split('T')[0];
 const KEYWORD_SOURCE = process.env.SERANKING_SOURCE || 'us';
-const BACKLINK_DAYS = Number(process.env.SERANKING_BACKLINK_DAYS || 7);
+const BACKLINK_DAYS = Number(process.env.SERANKING_BACKLINK_DAYS || 30);
 
 interface CsvSummary {
   filename: string;

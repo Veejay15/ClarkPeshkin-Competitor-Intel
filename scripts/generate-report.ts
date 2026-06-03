@@ -10,6 +10,7 @@ const TODAY = new Date().toISOString().split('T')[0];
 const CLIENT_SITEMAP_URL = 'https://clarkpeshkin.com/sitemap.xml';
 const CLIENT_NAME = 'Clark Peshkin';
 const CLIENT_DOMAIN = 'clarkpeshkin.com';
+const BACKLINK_DAYS = Number(process.env.SERANKING_BACKLINK_DAYS || 30);
 
 interface DiffEntry {
   url: string;
@@ -111,8 +112,8 @@ Tone: confident, direct, no fluff. No emojis. No em dashes (use periods, commas,
 Structure:
 1. Executive Summary (2 to 4 bullet points, what this competitor did this week and what to do about it)
 2. New Pages Built by ${competitor.name} (list URLs and infer what they're targeting based on URL slugs, for example practice area pages, location/county pages, attorney bio pages, FAQ pages on divorce/custody/wills/probate, blog posts on family law or estate topics)
-3. Backlink Movements (only if CSV data is provided for this competitor)
-4. Keyword and Ranking Changes (only if CSV data is provided for this competitor)
+3. Backlink Movements (always include this section. If a "backlinks" entry exists in csvData, summarize the most authoritative new referring domains from the topRows, group them by type (press/news, directories, partner sites, citations, spam/low-quality), and call out any noteworthy single links. If the entry is present but rowCount is 0, write a single line: "No new backlinks discovered by SE Ranking in the last ${BACKLINK_DAYS} days." Only skip this section entirely if no "backlinks" entry exists in csvData at all.)
+4. Keyword and Ranking Changes (always include this section. If a "positions" entry exists in csvData, surface (a) keywords with position_change of "new" entering near page 1, (b) keywords with the largest positive position_change (improvements), and (c) keywords with the largest negative position_change (declines). Mention search_volume to indicate value. If the entry is present but rowCount is 0, state that explicitly. Only skip entirely if no "positions" entry exists in csvData.)
 5. Recommended Actions for ${CLIENT_NAME} (numbered list, specific moves to make this week in response to ${competitor.name}'s activity)
 
 CRITICAL RULE FOR RECOMMENDATIONS:
