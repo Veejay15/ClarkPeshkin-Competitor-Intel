@@ -113,30 +113,43 @@ Structure:
 1. Executive Summary (2 to 4 bullet points, what this competitor did this week and what to do about it)
 
 2. New Pages Built by ${competitor.name}
-   ALWAYS render this section as a markdown table with exactly two columns: "URL" and "Inferred Target".
-   - URL column: the full URL wrapped in backticks (inline code) so it renders monospace.
-   - Inferred Target column: 1 to 3 short sentences. Identify what the page targets (practice area, location, audience), and state plainly whether the topic overlaps with ${CLIENT_NAME}'s practice areas or sits outside them. Examples of helpful framings: "Direct overlap with [practice area]", "Adjacent to [practice area], minor threat", "Outside ${CLIENT_NAME}'s practice areas, no action needed".
+   ALWAYS render this section as a markdown table with EXACTLY TWO columns and a header row of EXACTLY: \`| URL | Inferred Target |\`
+   STRICT TABLE RULES (apply to every row):
+   - Every row must have exactly 2 cells. Do NOT add columns. Do NOT split a field across multiple cells.
+   - Do NOT use raw \`|\` inside a cell. Replace any pipe with a hyphen.
+   Column contents:
+   - URL: ONLY the full URL wrapped in backticks. Nothing else in this cell.
+   - Inferred Target: 1 to 3 short sentences. Identify what the page targets (practice area, location, audience), and state plainly whether the topic overlaps with ${CLIENT_NAME}'s practice areas or sits outside them. Examples: "Direct overlap with [practice area]", "Adjacent to [practice area], minor threat", "Outside ${CLIENT_NAME}'s practice areas, no action needed".
    After the table, you may include a single bold "Notable observation:" paragraph (no more than 2 sentences) if there is a pattern worth flagging (e.g., hiring posts that signal scaling). If there are no new pages, write a single line "No new pages built this week." instead of a table.
 
 3. Backlink Movements
-   ALWAYS include this section. If a "backlinks" entry exists in csvData with rowCount > 0, render a markdown table with exactly five columns: "Referring Page", "Anchor", "DA", "Type", "Nofollow".
-   - Referring Page: the source_page URL wrapped in backticks. If source_page_title exists, append it after the URL on a new line in italics like *(Title)*.
+   ALWAYS include this section. If a "backlinks" entry exists in csvData with rowCount > 0, render a markdown table with EXACTLY FIVE columns and a header row of EXACTLY: \`| Referring Page | Anchor | DA | Type | Nofollow |\`
+   STRICT TABLE RULES (apply to every row):
+   - Every row must have exactly 5 cells separated by 5 pipes plus the leading/trailing pipes. Count pipes before emitting each row.
+   - Do NOT add any column not in the header. Do NOT split a field across multiple cells. Do NOT insert the referring domain name, page title, or any other inferred field as its own cell.
+   - Do NOT use raw \`|\` inside a cell. If a value contains a pipe, replace it with a hyphen.
+   Column contents:
+   - Referring Page: ONLY the source_page URL wrapped in backticks. Nothing else in this cell. Do not append the page title.
    - Anchor: the anchor text in plain text. If empty or null, write "(no anchor)".
-   - DA: the domain_authority number as a plain integer.
-   - Type: classify each link as one of: Press / news, Industry directory, Local citation, Partner / referral, Spam / low-quality, or Other (use your judgement).
-   - Nofollow: "Yes" or "No".
-   Sort by DA descending. Cap the table at 15 rows. After the table, include 1 short paragraph flagging the most authoritative links and any spam patterns.
+   - DA: the domain_authority value as a plain integer (or "—" if missing). Never put text here.
+   - Type: classify each link as one of: Press / news, Industry directory, Local citation, Partner / referral, Spam / low-quality, or Other.
+   - Nofollow: exactly "Yes" or "No".
+   Sort by DA descending. Cap the table at 15 rows. After the table, include 1 short paragraph flagging the most authoritative links and any spam patterns. You may name the referring source (e.g., "Lawyerland directory listings dominate this batch") in that paragraph, not in the table.
    If the entry is present but rowCount is 0, write a single line: "No new backlinks discovered by SE Ranking in the last ${BACKLINK_DAYS} days."
    Only skip the section entirely if no "backlinks" entry exists in csvData at all.
 
 4. Keyword and Ranking Changes
-   ALWAYS include this section. If a "positions" entry exists in csvData with rowCount > 0, render a markdown table with exactly six columns: "Keyword", "Position", "Previous", "Change", "Volume", "URL".
-   - Keyword: plain text.
-   - Position: current position as integer.
-   - Previous: previous_position as integer, or "—" if it's a new entry.
-   - Change: the position_change value verbatim ("new", "+5", "-3", "0").
-   - Volume: search_volume as integer.
-   - URL: the ranking url wrapped in backticks. If too long, truncate display to the path and put the full URL in the link.
+   ALWAYS include this section. If a "positions" entry exists in csvData with rowCount > 0, render a markdown table with EXACTLY SIX columns and a header row of EXACTLY: \`| Keyword | Position | Previous | Change | Volume | URL |\`
+   STRICT TABLE RULES (apply to every row):
+   - Every row must have exactly 6 cells. Do NOT add columns. Do NOT split a field across multiple cells.
+   - Do NOT use raw \`|\` inside a cell. Replace any pipe with a hyphen.
+   Column contents:
+   - Keyword: plain text. No backticks. No links.
+   - Position: integer only.
+   - Previous: integer, or "—" if it's a new entry.
+   - Change: the position_change value verbatim ("new", "+5", "-3", "0"). Never text.
+   - Volume: integer only.
+   - URL: ONLY the ranking URL wrapped in backticks. Nothing else.
    Pick rows that matter: (a) keywords with position_change "new" entering at or near page 1 (position <= 20), (b) the 5 biggest positive movers (largest +N), (c) the 5 biggest negative movers (largest -N), (d) any keyword with search_volume >= 1000 and position <= 10. Cap the table at 15 rows total. Sort by absolute Change descending. After the table, write 1 short paragraph noting which of these keywords actually overlap with ${CLIENT_NAME}'s practice areas (the rest are noise for our purposes).
    If the entry is present but rowCount is 0, state that explicitly.
    Only skip entirely if no "positions" entry exists in csvData.
