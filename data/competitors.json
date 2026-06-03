@@ -15,6 +15,14 @@
       "sitemapUrl": "https://www.dcfesq.com/sitemap.xml",
       "addedAt": "2026-06-03",
       "active": true
+    },
+    {
+      "id": "www-evansfox-com",
+      "name": "Evans Fox LLP",
+      "domain": "https://www.evansfox.com/",
+      "sitemapUrl": "https://www.evansfox.com/sitemap.xml",
+      "addedAt": "2026-06-03",
+      "active": true
     }
   ]
 }
