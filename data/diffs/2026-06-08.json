@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-08",
+  "previousDate": "2026-06-03",
+  "diffs": [
+    {
+      "competitorId": "www-tullylegal-com",
+      "newUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/what-federal-employees-need-to-know-about-future-appeals-after-key-u-s-supreme-court-ruling/",
+          "lastmod": "2026-06-04T20:45:31+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/exceptions-to-at-will-employment-in-texas-retaliation-and-wrongful-termination/",
+          "lastmod": "2026-06-04T20:46:05+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/business-operations-manager-342/",
+          "lastmod": "2026-06-03T16:29:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/deputy-chief-marketing-officer-343/",
+          "lastmod": "2026-06-03T16:38:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/understanding-your-due-process-rights-actions-to-take-when-under-agency-investigation-notified/",
+          "lastmod": "2026-06-04T15:48:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/security-clearance-representation/security-clearance-issues-for-dual-citizens/",
+          "lastmod": "2026-06-04T17:14:25+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/operations/",
+          "lastmod": "2026-06-03T16:29:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/type/tr-management/",
+          "lastmod": "2026-06-03T16:38:21+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.tullylegal.com/jobs/associate-attorney-239/",
+          "lastmod": "2026-02-06T21:32:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/associate-attorney-240/",
+          "lastmod": "2026-02-06T21:37:32+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/associate-attorney-277/",
+          "lastmod": "2026-03-06T21:31:18+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/billing-associate-297/",
+          "lastmod": "2026-04-14T19:58:30+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/marketing-events-coordinator-326/",
+          "lastmod": "2026-05-13T21:27:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/other-areas/",
+          "lastmod": "2026-03-06T21:31:18+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/location/white-plains/",
+          "lastmod": "2026-03-06T21:31:18+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/",
+          "lastmod": "2026-06-04T20:46:05+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/",
+          "lastmod": "2026-06-04T14:41:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/marketing-events-coordinator-339/",
+          "lastmod": "2026-06-04T14:41:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/",
+          "lastmod": "2026-06-05T21:09:33+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/sean-c-timmons/",
+          "lastmod": "2026-06-05T21:09:33+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/",
+          "lastmod": "2026-06-04T15:48:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/",
+          "lastmod": "2026-06-04T17:20:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/security-clearance-representation/",
+          "lastmod": "2026-06-04T17:20:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/marketing/",
+          "lastmod": "2026-06-04T14:41:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/location/latham/",
+          "lastmod": "2026-06-04T14:41:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/location/syracuse/",
+          "lastmod": "2026-02-04T16:40:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/type/tr-attorney/",
+          "lastmod": "2026-02-04T16:43:15+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/type/tr-support/",
+          "lastmod": "2026-06-04T14:41:24+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-dcfesq-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-evansfox-com",
+      "newUrls": [
+        {
+          "url": "https://www.evansfox.com/estate-planning-intake/",
+          "lastmod": "2026-06-04T20:42:05+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-jmlawfirm-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-trevettcristo-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "http://live-trevett-cristo.pantheonsite.io/100-years-strong",
+          "lastmod": "2026-06-04T21:28Z"
+        }
+      ]
+    }
+  ]
+}
