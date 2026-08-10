@@ -1,0 +1,1653 @@
+{
+  "date": "2026-08-10",
+  "previousDate": "2026-08-03",
+  "diffs": [
+    {
+      "competitorId": "www-tullylegal-com",
+      "newUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/how-social-media-posts-can-become-a-workplace-issue-in-new-york-state/",
+          "lastmod": "2026-08-03T13:03:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/new-york-criminal-cases-and-social-media-when-online-posts-become-evidence/",
+          "lastmod": "2026-08-04T15:18:23+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/what-federal-employees-need-to-know-about-opms-new-rif-and-appeals-rules/",
+          "lastmod": "2026-08-04T17:54:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/ask-the-attorney-mental-health-and-rotc-enrollment/",
+          "lastmod": "2026-08-04T18:35:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/laura-garcia/",
+          "lastmod": "2026-08-03T14:52:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/firearm-laws-in-new-york-state/",
+          "lastmod": "2026-08-07T19:37:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/reaching-undocumented-immigrants-a-concern-amid-pandemic/",
+          "lastmod": "2023-04-24T16:46:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/speeding-violations-issued-by-work-and-school-zone-cameras-raise-legal-questions/",
+          "lastmod": "2026-08-05T14:28:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/greece-cannabis-bust-highlights-risks-of-illegal-marijuana-market/",
+          "lastmod": "2026-08-05T14:33:29+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/syracuse-schools-paid-out-of-town-administrator-at-least-59k-on-her-way-out/",
+          "lastmod": "2026-08-05T14:40:16+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/restoring-the-ranks-military-recruitment-surges/",
+          "lastmod": "2026-08-05T14:49:23+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/former-federal-worker-still-not-receiving-full-benefits-eight-months-after-retirement/",
+          "lastmod": "2026-08-07T20:20:01+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.tullylegal.com/contact/thank-you/",
+          "lastmod": "2021-02-18T18:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/",
+          "lastmod": "2026-07-20T13:39:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/client-relations-associate-245/",
+          "lastmod": "2026-02-10T17:47:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/client-relations-associate-325/",
+          "lastmod": "2026-05-13T15:13:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/billing-associate-334/",
+          "lastmod": "2026-05-28T16:22:30+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/docketing-clerk-336/",
+          "lastmod": "2026-05-28T19:12:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/marketing-associate-338/",
+          "lastmod": "2026-06-01T18:51:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/digital-marketing-associate-341/",
+          "lastmod": "2026-06-02T21:24:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/deputy-chief-marketing-officer-343/",
+          "lastmod": "2026-06-03T16:38:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/legal-assistant-355/",
+          "lastmod": "2026-06-15T21:24:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/recruiting-assistant-358/",
+          "lastmod": "2026-06-18T14:36:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/talent-acquisition-associate-357/",
+          "lastmod": "2026-06-30T15:11:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/events-coordinator-361/",
+          "lastmod": "2026-07-01T16:57:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/finance-manager-360/",
+          "lastmod": "2026-07-02T16:11:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/client-relations-associate-371/",
+          "lastmod": "2026-07-20T13:39:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/alessia-tumminelli/",
+          "lastmod": "2026-04-27T21:45:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/self-reporting-security-violations/",
+          "lastmod": "2024-08-02T16:11:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tully-rinckey-acquires-new-york-city-office-next-stop-dublin-hong-kong/",
+          "lastmod": "2017-12-07T15:00:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/could-aspects-of-nys-gun-violence-emergency-declaration-end-up-before-supreme-court/",
+          "lastmod": "2023-04-24T16:44:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/how-to-budget-for-real-estate-attorney-fees-when-selling-a-home/",
+          "lastmod": "2023-04-24T16:46:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/1964/",
+          "lastmod": "2023-04-24T16:46:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/2019/",
+          "lastmod": "2023-04-24T16:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/2019-best-lawyers/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/2019-women-of-achievement-award/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/2025-executive-orders-for-federal-employees-and-military-personnel/",
+          "lastmod": "2025-05-09T14:42:05+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/adultery/",
+          "lastmod": "2023-04-24T16:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/air-force-drug-testing-laboratory/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/albany/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/albany-business-review/",
+          "lastmod": "2023-04-24T16:50:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/albany-legal-market/",
+          "lastmod": "2023-04-24T16:46:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/albany-ny/",
+          "lastmod": "2023-04-24T16:50:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/allen-shoikhetbrod/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/amy-amoroso/",
+          "lastmod": "2023-04-24T16:49:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/andrew-cuomo/",
+          "lastmod": "2023-04-24T16:50:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/andrew-mccabe/",
+          "lastmod": "2023-04-24T16:49:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/anthony-kuhn/",
+          "lastmod": "2023-04-24T16:50:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/appeals-board/",
+          "lastmod": "2023-04-24T16:49:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/appellate-law/",
+          "lastmod": "2023-04-24T16:49:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/attorney-general/",
+          "lastmod": "2023-04-24T16:49:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/backlog/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/bank-of-america/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/bankruptcy/",
+          "lastmod": "2023-04-24T16:49:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/bankruptcy-law/",
+          "lastmod": "2023-04-24T16:48:16+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/barbara-king/",
+          "lastmod": "2023-04-24T16:50:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/barbara-underwood/",
+          "lastmod": "2023-04-24T16:49:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/batvia/",
+          "lastmod": "2023-04-24T16:50:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/best-lawyers-in-america/",
+          "lastmod": "2023-04-21T20:53:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/bill-wiley/",
+          "lastmod": "2023-04-24T16:49:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/bloomberg/",
+          "lastmod": "2023-04-24T16:50:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/bna/",
+          "lastmod": "2023-04-24T16:50:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/border/",
+          "lastmod": "2023-04-24T16:48:28+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/bowe-bergdahl/",
+          "lastmod": "2023-04-24T16:50:05+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/brett-kavanaugh/",
+          "lastmod": "2023-04-24T16:49:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/brittan-buchanan/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/buffalo/",
+          "lastmod": "2023-04-24T16:50:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/buffalo-business-first/",
+          "lastmod": "2023-04-24T16:50:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/buffalo-business-journal/",
+          "lastmod": "2023-04-24T16:50:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/buffalo-law-journal/",
+          "lastmod": "2023-04-24T16:49:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/buffalo-ny/",
+          "lastmod": "2023-04-24T16:52:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/business-rights/",
+          "lastmod": "2023-04-24T16:48:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/cares-act/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/cash-advances/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/cash-bail/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/charles-mccullough/",
+          "lastmod": "2023-04-24T16:50:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/chase/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/cheri-cannon/",
+          "lastmod": "2023-04-24T16:49:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/cheri-l-cannon-esq/",
+          "lastmod": "2023-04-24T16:50:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/child-protective-services/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/christian-root/",
+          "lastmod": "2023-04-24T16:48:15+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/christine-blasey-ford/",
+          "lastmod": "2023-04-24T16:49:46+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/christine-redfield/",
+          "lastmod": "2023-04-21T20:57:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/chuck-grassley/",
+          "lastmod": "2023-04-24T16:49:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/cia/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/cianna/",
+          "lastmod": "2023-04-24T16:50:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/civil-rights/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/clearance-jobs/",
+          "lastmod": "2023-04-24T16:50:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/cny-central/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/congressional-deadline/",
+          "lastmod": "2023-04-24T16:48:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/controlled-substances/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/corona/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/corona-virus/",
+          "lastmod": "2023-04-24T16:48:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/coronavirus/",
+          "lastmod": "2023-04-24T16:48:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/covid-19/",
+          "lastmod": "2023-04-24T16:48:15+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/credit-reports/",
+          "lastmod": "2023-04-24T16:49:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/credit-score/",
+          "lastmod": "2023-04-24T16:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/crisis/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/custody-agreement/",
+          "lastmod": "2023-04-24T16:48:15+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/customer-safety/",
+          "lastmod": "2023-04-24T16:48:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/daily-gazette/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/dan-meyer/",
+          "lastmod": "2023-04-24T16:49:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/daniel-kane/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/declassification/",
+          "lastmod": "2023-04-24T16:49:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/defense-department/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/dennis-dean-kirk/",
+          "lastmod": "2023-04-24T16:49:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/department-of-defense/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/department-of-veterans-affairs/",
+          "lastmod": "2023-04-24T16:49:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/derrick-hogan/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/desmond-hotel/",
+          "lastmod": "2023-04-24T16:49:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/dhs/",
+          "lastmod": "2026-02-23T22:19:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/divorce-101-workshop/",
+          "lastmod": "2023-04-21T21:00:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/dni-whistleblower/",
+          "lastmod": "2023-04-24T16:48:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/dod/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/donald-trump/",
+          "lastmod": "2023-04-24T16:48:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/dr-fauci/",
+          "lastmod": "2023-04-24T16:48:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/drug-and-alcohol-misuse/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/drug-test/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/eb-5-visas/",
+          "lastmod": "2026-02-23T22:19:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/education-law/",
+          "lastmod": "2023-04-24T16:46:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/emergency-filing/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/employee/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/employee-protections/",
+          "lastmod": "2023-04-24T16:46:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/employee-rights/",
+          "lastmod": "2023-04-24T16:48:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/employee-safety/",
+          "lastmod": "2023-04-24T16:48:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/employer/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/employment-law/",
+          "lastmod": "2023-04-24T16:48:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/environmental-protection-agency/",
+          "lastmod": "2023-04-24T16:49:53+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/equal-employment-opportunity-commission-eeoc/",
+          "lastmod": "2023-04-21T21:18:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/eric-schneiderman/",
+          "lastmod": "2023-04-24T16:49:53+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/erick-d-kraemer/",
+          "lastmod": "2023-04-24T16:49:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/esq/",
+          "lastmod": "2023-04-24T16:49:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/eviction/",
+          "lastmod": "2023-04-24T16:49:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/expansion/",
+          "lastmod": "2023-04-24T16:50:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/family-matrimonial-law/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/family-court/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fbi/",
+          "lastmod": "2023-04-24T16:49:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fed/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-detention-center/",
+          "lastmod": "2023-04-24T16:50:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-employee-vaccine/",
+          "lastmod": "2023-04-24T16:44:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-employees/",
+          "lastmod": "2023-04-24T16:48:33+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-employment/",
+          "lastmod": "2023-04-24T16:48:35+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-employment-law/",
+          "lastmod": "2023-04-24T16:52:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-government/",
+          "lastmod": "2023-04-24T16:46:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-news-network/",
+          "lastmod": "2023-04-24T16:48:28+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-reserve/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/federal-tax-deduction/",
+          "lastmod": "2023-04-24T16:50:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fedsmith/",
+          "lastmod": "2023-04-24T16:50:05+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fired/",
+          "lastmod": "2023-04-24T16:48:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fisher-house/",
+          "lastmod": "2023-04-21T21:08:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/foia/",
+          "lastmod": "2023-04-24T16:49:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fort-bend-county-bar-association/",
+          "lastmod": "2023-04-21T21:01:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fort-campbell/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fort-drum/",
+          "lastmod": "2023-04-24T16:49:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fox-news/",
+          "lastmod": "2023-04-24T16:49:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/fraud/",
+          "lastmod": "2023-04-24T16:49:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/freedom-of-information-law/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/gay/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/gerald-raymond/",
+          "lastmod": "2023-04-24T16:50:05+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/glenn-a-fine/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/gov-andrew-cuomo/",
+          "lastmod": "2023-04-24T16:48:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/government-employee/",
+          "lastmod": "2023-04-24T16:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/government-shutdown/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/government-watchdog/",
+          "lastmod": "2023-04-24T16:48:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/graig-coretlyou/",
+          "lastmod": "2023-04-24T16:50:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/graig-cortelyou/",
+          "lastmod": "2023-04-24T16:52:05+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/greg-rinckey/",
+          "lastmod": "2023-04-24T16:46:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/greg-t-rinckey-esq/",
+          "lastmod": "2026-02-23T22:16:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/growth/",
+          "lastmod": "2023-04-21T21:04:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ham-dinner/",
+          "lastmod": "2023-04-21T21:13:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/hannaford-supermarkets/",
+          "lastmod": "2023-04-21T21:13:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/hate-crime/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/hate-speech/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/hearings-and-appeals/",
+          "lastmod": "2023-04-24T16:49:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/immigrant-investors/",
+          "lastmod": "2026-02-23T22:19:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/immigration/",
+          "lastmod": "2023-04-24T16:48:15+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/immigration-law/",
+          "lastmod": "2023-04-24T16:50:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/inc-5000/",
+          "lastmod": "2023-04-21T21:06:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/inspector-general/",
+          "lastmod": "2023-04-24T16:49:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/inspector-general-sean-odonnell/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/inspectors-general/",
+          "lastmod": "2023-04-24T16:48:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/intelligence/",
+          "lastmod": "2023-04-24T16:48:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/intelligence-community-inspector-general-michael-atkinson/",
+          "lastmod": "2023-04-24T16:48:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/interrogration/",
+          "lastmod": "2023-04-24T16:49:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/intimate-partner-violence/",
+          "lastmod": "2023-04-24T16:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/james-schlett/",
+          "lastmod": "2023-04-21T21:11:31+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/jared-kushner/",
+          "lastmod": "2023-04-24T16:50:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/jennifer-corcoran/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/jim-mattis/",
+          "lastmod": "2023-04-24T16:48:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/john-brennan/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/judge-astacio/",
+          "lastmod": "2023-04-24T16:49:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/judiciary-committee/",
+          "lastmod": "2023-04-24T16:49:46+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/justice-department/",
+          "lastmod": "2023-04-24T16:49:53+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/kelsey-knutsen/",
+          "lastmod": "2023-04-21T20:57:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/kevin-holyan/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/kkk/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/kristian-saucier/",
+          "lastmod": "2023-04-24T16:49:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/laboratory-contamination/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/landmark-decision/",
+          "lastmod": "2023-04-24T16:46:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/larry-d-youngner-esq/",
+          "lastmod": "2023-04-24T16:50:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/law360/",
+          "lastmod": "2023-04-24T16:48:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/lawsuit/",
+          "lastmod": "2023-04-24T16:49:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/lgbt/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/liability/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/limo-crash/",
+          "lastmod": "2023-04-24T16:49:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/linden-oaks/",
+          "lastmod": "2023-04-24T16:50:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/living-wills/",
+          "lastmod": "2023-04-24T16:48:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/maj-mathew-golsteyn/",
+          "lastmod": "2023-04-24T16:49:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/managing-partner/",
+          "lastmod": "2023-04-24T16:50:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/manhattan/",
+          "lastmod": "2023-04-24T16:50:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/manning-napier-tour-de-cure/",
+          "lastmod": "2023-04-21T20:57:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/maria-morse/",
+          "lastmod": "2023-04-24T16:46:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/marine/",
+          "lastmod": "2023-04-24T16:48:28+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/mario-cometti/",
+          "lastmod": "2023-04-24T16:49:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/mario-d-cometti/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/masks/",
+          "lastmod": "2023-04-24T16:48:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/mathew-b-tully-esq/",
+          "lastmod": "2026-02-23T22:16:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/medical-exemptions/",
+          "lastmod": "2023-04-24T16:46:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/medical-malpractice/",
+          "lastmod": "2023-04-24T16:48:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/michael-belsky/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/michael-macomber/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/military-justice-act/",
+          "lastmod": "2023-04-24T16:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/military-law/",
+          "lastmod": "2026-02-23T22:16:35+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/military-leave/",
+          "lastmod": "2023-04-24T16:48:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/military-reservists/",
+          "lastmod": "2023-04-24T16:49:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/military-service-member-vaccine/",
+          "lastmod": "2023-04-24T16:44:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/misconduct/",
+          "lastmod": "2023-04-24T16:49:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/morgan-management/",
+          "lastmod": "2023-04-24T16:49:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/mspb/",
+          "lastmod": "2023-04-24T16:49:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/nazi/",
+          "lastmod": "2023-04-24T16:49:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/new-york-state/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/news10nbc/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/north-greenbush/",
+          "lastmod": "2023-04-24T16:49:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/nra/",
+          "lastmod": "2023-04-24T16:46:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ny/",
+          "lastmod": "2023-04-24T16:49:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/nyc/",
+          "lastmod": "2023-04-24T16:50:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/oak-hill/",
+          "lastmod": "2023-04-24T16:49:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/office-of-special-counsel/",
+          "lastmod": "2023-04-24T16:49:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/office-of-the-attorney-general/",
+          "lastmod": "2023-04-24T16:49:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ombudsman/",
+          "lastmod": "2023-04-24T16:49:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/onondaga/",
+          "lastmod": "2023-04-24T16:49:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/pardon/",
+          "lastmod": "2023-04-24T16:49:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/partner/",
+          "lastmod": "2023-04-21T21:02:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/peter-charnetsky/",
+          "lastmod": "2023-04-24T16:50:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/peter-j-pullano/",
+          "lastmod": "2023-04-24T16:50:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/peter-pullano/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/police/",
+          "lastmod": "2023-04-24T16:49:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ponzi-scheme/",
+          "lastmod": "2023-04-24T16:49:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/post-protest-arson/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/pothole-season/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/president-donald-trump/",
+          "lastmod": "2023-04-24T16:50:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/president-trump/",
+          "lastmod": "2023-04-24T16:50:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/public-safety/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/qualify/",
+          "lastmod": "2023-04-24T16:46:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/rashad-roybal-mcintosh/",
+          "lastmod": "2023-04-24T16:49:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/record-video/",
+          "lastmod": "2023-04-24T16:49:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/recreational-marijuana/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/relief-provisionsw/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/reopen/",
+          "lastmod": "2023-04-24T16:46:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/reopening-businesses/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/return-to-work/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/reuters/",
+          "lastmod": "2023-04-24T16:48:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ribbon-cutting/",
+          "lastmod": "2023-04-21T21:04:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/right-to-privacy/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/robert-mueller/",
+          "lastmod": "2023-04-24T16:50:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/robert-rock/",
+          "lastmod": "2023-04-24T16:48:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/rochester/",
+          "lastmod": "2023-04-24T16:50:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ronny-jackson/",
+          "lastmod": "2023-04-24T16:49:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/rpi/",
+          "lastmod": "2023-04-24T16:49:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/san-diego-ca/",
+          "lastmod": "2023-04-24T16:51:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/saratoga/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/saratoga-springs/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/schenectady/",
+          "lastmod": "2023-04-24T16:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/schneiderman/",
+          "lastmod": "2023-04-24T16:49:53+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/schoharie/",
+          "lastmod": "2023-04-24T16:49:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/school-shooter/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/sean-timmons/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/sec/",
+          "lastmod": "2023-04-24T16:49:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/security-clearance/",
+          "lastmod": "2023-04-24T16:50:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/sexual-assault/",
+          "lastmod": "2023-04-24T16:49:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/sheriff/",
+          "lastmod": "2023-04-24T16:49:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/siana-mclean/",
+          "lastmod": "2023-04-24T16:50:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/small-businesses/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/smuggling/",
+          "lastmod": "2023-04-24T16:48:28+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/social-distancing/",
+          "lastmod": "2023-04-24T16:48:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/social-security/",
+          "lastmod": "2023-04-24T16:50:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/sott-pruitt/",
+          "lastmod": "2023-04-24T16:49:53+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/special-education/",
+          "lastmod": "2023-04-24T16:46:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/stars-and-stripes/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/state-department-investigator/",
+          "lastmod": "2023-04-24T16:48:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/stephanie-rapp-tully/",
+          "lastmod": "2023-04-24T16:48:30+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/steven-l-herrick-esq/",
+          "lastmod": "2023-04-24T16:51:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/supreme-court/",
+          "lastmod": "2023-04-24T16:49:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/sypreme-court/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/syracuse-ny/",
+          "lastmod": "2023-04-24T16:51:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/taliban/",
+          "lastmod": "2023-04-24T16:49:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/teachers/",
+          "lastmod": "2023-04-24T16:46:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/termination/",
+          "lastmod": "2023-04-24T16:49:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/terrorist-threat/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/the-buffalo-news/",
+          "lastmod": "2023-04-24T16:50:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/the-mill/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/title-ii/",
+          "lastmod": "2023-04-24T16:49:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/title-ix/",
+          "lastmod": "2023-04-24T16:49:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/title-vii/",
+          "lastmod": "2023-04-24T16:46:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/tpm/",
+          "lastmod": "2023-04-24T16:48:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/tr-busines/",
+          "lastmod": "2023-04-24T16:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/tr-business-navigator/",
+          "lastmod": "2023-04-21T20:56:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/transgender/",
+          "lastmod": "2023-04-24T16:48:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/trump/",
+          "lastmod": "2023-04-24T16:48:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/trump-phone-call/",
+          "lastmod": "2023-04-24T16:48:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/trust-and-estate-planning/",
+          "lastmod": "2023-04-24T16:48:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/tsp/",
+          "lastmod": "2023-04-24T16:48:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/tully-rincey-pllc/",
+          "lastmod": "2023-04-24T16:49:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/tully-rinckey/",
+          "lastmod": "2023-04-24T16:46:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/tully-rinckey-foundation/",
+          "lastmod": "2023-04-24T16:49:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/tully-rinckey-pllc/",
+          "lastmod": "2026-02-23T22:16:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/u-s-court-of-veterans-appeals/",
+          "lastmod": "2023-04-24T16:49:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/u-s-small-business-administration/",
+          "lastmod": "2023-04-24T16:49:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ucmj/",
+          "lastmod": "2023-04-24T16:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ukraine-whistleblower/",
+          "lastmod": "2023-04-24T16:48:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/uniform-code-of-military-justice/",
+          "lastmod": "2023-04-24T16:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/united-aircraft-technologies/",
+          "lastmod": "2023-04-24T16:49:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/united-states-securities-and-exchange-commission/",
+          "lastmod": "2023-04-24T16:49:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/us-office-of-personnel-management/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/userra/",
+          "lastmod": "2023-04-24T16:48:18+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/usmma/",
+          "lastmod": "2023-04-24T16:49:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/usps/",
+          "lastmod": "2023-04-24T16:48:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/vacation-time/",
+          "lastmod": "2023-04-24T16:49:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/valued-modular-homes/",
+          "lastmod": "2023-04-24T16:49:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/vetcon/",
+          "lastmod": "2023-04-24T16:50:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/vetcon-2018/",
+          "lastmod": "2023-04-24T16:49:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/vetcon-alliance/",
+          "lastmod": "2023-04-24T16:49:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/veteran-business-outreach-center/",
+          "lastmod": "2023-04-24T16:49:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/veteran-entrepreneurs/",
+          "lastmod": "2023-04-21T21:00:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/veteran-owned-business/",
+          "lastmod": "2023-04-21T21:00:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/veterans/",
+          "lastmod": "2023-04-24T16:49:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/visitation-rights/",
+          "lastmod": "2023-04-24T16:48:15+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/watch-dog/",
+          "lastmod": "2023-04-24T16:48:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/watchdog/",
+          "lastmod": "2023-04-24T16:48:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/watertown-daily-times/",
+          "lastmod": "2023-04-24T16:49:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/wells-fargo/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/whistle-blower/",
+          "lastmod": "2023-04-24T16:48:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/whistleblower/",
+          "lastmod": "2023-04-24T16:50:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/whistleblower-protection-caucus/",
+          "lastmod": "2023-04-24T16:49:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/white-house/",
+          "lastmod": "2023-04-24T16:52:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/worker-safety/",
+          "lastmod": "2023-04-24T16:48:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/workplace-safety/",
+          "lastmod": "2023-04-24T16:48:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/ywca-northeastern-ny/",
+          "lastmod": "2023-04-24T16:49:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tag/zachary-ruetz/",
+          "lastmod": "2023-04-21T20:57:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/client-relations/",
+          "lastmod": "2026-07-20T13:39:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/finance/",
+          "lastmod": "2026-07-02T16:11:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/legal-support/",
+          "lastmod": "2026-06-15T21:24:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/marketing/",
+          "lastmod": "2026-07-01T16:57:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/other-areas/",
+          "lastmod": "2026-02-10T17:47:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/category/recruiting/",
+          "lastmod": "2026-06-30T15:11:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/location/latham/",
+          "lastmod": "2026-07-20T13:39:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/type/tr-management/",
+          "lastmod": "2026-07-02T16:11:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/type/tr-support/",
+          "lastmod": "2026-07-20T13:39:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/author/ebyrnes/",
+          "lastmod": "2025-07-16T20:38:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/author/ccouto/",
+          "lastmod": "2025-01-27T21:45:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/author/sbrewster/",
+          "lastmod": "2024-08-15T15:37:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/author/jbabbino/",
+          "lastmod": "2024-08-14T16:57:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/author/tullylegal/",
+          "lastmod": "2021-03-12T22:37:38+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/author/pdoogan/",
+          "lastmod": "2018-09-25T18:14:02+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/",
+          "lastmod": "2026-08-06T19:38:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/getting-your-signature-notarized-remotely-durable-power-of-attorney",
+          "lastmod": "2026-08-06T16:18:39+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/new-eeoc-guidance-covid-19",
+          "lastmod": "2026-08-06T16:19:38+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/court-trials-in-the-days-of-covid",
+          "lastmod": "2026-08-06T19:38:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/",
+          "lastmod": "2026-08-07T18:41:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/pamela-j-branch/",
+          "lastmod": "2026-08-07T15:37:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/cheri-cannon/",
+          "lastmod": "2026-08-07T15:38:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/michael-c-fallings/",
+          "lastmod": "2026-08-07T15:39:15+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/paul-friener/",
+          "lastmod": "2026-08-07T18:34:30+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/ryan-c-green/",
+          "lastmod": "2026-08-07T18:34:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/derrick-hogan/",
+          "lastmod": "2026-08-07T18:35:25+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/william-a-hudson-jr/",
+          "lastmod": "2026-08-07T18:35:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/anthony-j-kuhn/",
+          "lastmod": "2026-08-07T18:36:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/michael-w-macomber/",
+          "lastmod": "2026-08-07T18:37:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/dan-meyer/",
+          "lastmod": "2026-08-07T18:37:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/ryan-nerney/",
+          "lastmod": "2026-08-07T18:38:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/stephanie-rapp-tully/",
+          "lastmod": "2026-08-07T18:38:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/greg-t-rinckey/",
+          "lastmod": "2026-08-07T18:39:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/donna-williams-rucker/",
+          "lastmod": "2026-08-07T18:39:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/allen-a-shoikhetbrod/",
+          "lastmod": "2026-08-07T18:39:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/heather-tenney/",
+          "lastmod": "2026-08-07T18:40:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/sean-c-timmons/",
+          "lastmod": "2026-08-07T18:41:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/",
+          "lastmod": "2026-08-07T19:37:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/your-rights-against-self-incrimination-in-the-military-understanding-article-31-of-the-ucmj-and-the-5th-amendment-2/",
+          "lastmod": "2026-08-04T15:27:32+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/what-parents-need-to-consider-during-iep-drafting-season/",
+          "lastmod": "2026-08-04T15:47:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/overview-of-employment-discrimination-laws-in-new-york-state/",
+          "lastmod": "2026-08-04T15:48:15+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/an-overview-of-uncontested-divorce-in-new-york-state/",
+          "lastmod": "2026-08-06T19:45:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/cle-defending-dwi-from-the-roadside-through-discovery-in-new-york-state/",
+          "lastmod": "2026-08-07T19:37:00+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/",
+          "lastmod": "2026-08-07T20:20:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/sean-hannity-and-fox-news-introduce-new-whistleblower-over-discredit-ukraine-whistleblower",
+          "lastmod": "2026-08-06T16:13:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/65000-live-and-work-us-visas-available-to-credentialed-professionals",
+          "lastmod": "2026-08-06T16:14:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/potential-military-vaccine-mandate-brings-distrust-support",
+          "lastmod": "2026-08-06T16:18:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/",
+          "lastmod": "2026-08-06T16:21:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/immigration-law",
+          "lastmod": "2026-08-06T16:21:21+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-dcfesq-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-evansfox-com",
+      "newUrls": [
+        {
+          "url": "https://www.evansfox.com/non-compete-agreements-new-york-employees/",
+          "lastmod": "2026-08-04T20:16:47+00:00"
+        },
+        {
+          "url": "https://www.evansfox.com/iran-war-impact-new-york-cannabis-businesses/",
+          "lastmod": "2026-08-06T19:55:13+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "https://www.evansfox.com/attorneys/",
+          "lastmod": "2026-08-04T19:07:25+00:00"
+        },
+        {
+          "url": "https://www.evansfox.com/topics/cbd/",
+          "lastmod": "2026-08-06T19:55:13+00:00"
+        },
+        {
+          "url": "https://www.evansfox.com/topics/uncategorized/",
+          "lastmod": "2026-08-06T19:55:13+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-jmlawfirm-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-trevettcristo-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    }
+  ]
+}
