@@ -1,0 +1,502 @@
+{
+  "date": "2026-09-28",
+  "previousDate": "2026-09-21",
+  "diffs": [
+    {
+      "competitorId": "www-tullylegal-com",
+      "newUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/social-media-mistakes-that-can-affect-divorce-and-child-custody-proceedings/",
+          "lastmod": "2026-09-23T18:00:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/military-spouses-relocating-to-maryland-soon-may-be-able-to-work-under-out-of-state-licenses-what-to-know/",
+          "lastmod": "2026-09-24T16:04:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/forgot-the-prenup-its-not-too-late",
+          "lastmod": "2026-09-28T15:09:17+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/legal-assistant-401/",
+          "lastmod": "2026-09-28T13:27:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/legal-assistant-402/",
+          "lastmod": "2026-09-28T13:30:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/despite-arrest-police-say-they-need-to-hear-from-victims-to-charge-assault-suspect/",
+          "lastmod": "2026-09-22T14:01:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/new-nys-law-allows-employees-access-to-personnel-file/",
+          "lastmod": "2026-09-23T19:33:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/ags-antitrust-bureau-weighs-in-as-ellis-st-peters-sue-over-cardiology-group/",
+          "lastmod": "2026-09-25T16:12:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/ask-cbs6-accessibility-during-construction-on-catskills-main-street/",
+          "lastmod": "2026-09-25T16:21:30+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/",
+          "lastmod": "2026-09-25T21:14:14+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/can-you-sign-a-prenup-after-marriage/",
+          "lastmod": "2024-08-21T18:09:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/it-manager-365/",
+          "lastmod": "2026-07-13T13:26:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/legal-assistant-375/",
+          "lastmod": "2026-09-01T16:41:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/robert-caggiano/",
+          "lastmod": "2026-09-09T20:00:36+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/",
+          "lastmod": "2026-09-28T15:09:17+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/camp-lejeune-justice-act-of-2022-what-veterans-should-know/",
+          "lastmod": "2026-09-23T19:00:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/setting-the-record-straight-video-interrogations-tell-it-like-it-is/",
+          "lastmod": "2026-09-23T19:45:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/yes-its-legal-in-canada-but-serious-consequences-await-those-trying-to-bring-cannabis-across-the-border/",
+          "lastmod": "2026-09-23T19:45:53+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/thc-you-later-new-yorks-marijuana-legislation-may-include-plans-to-clear-past-convictions/",
+          "lastmod": "2026-09-23T19:46:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/is-it-legal-to-break-into-a-hot-car-to-save-an-unattended-pet-in-new-york/",
+          "lastmod": "2026-09-23T19:47:29+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/time-for-change-office-of-personnel-management-is-updating-its-digital-records-system/",
+          "lastmod": "2026-09-23T19:55:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/what-new-york-employers-and-employees-should-know-about-new-personnel-records-and-notice-requirements/",
+          "lastmod": "2026-09-24T14:59:30+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/fees-payments/",
+          "lastmod": "2026-09-23T12:55:38+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/consultation-guide/consultation-faq/",
+          "lastmod": "2026-09-23T17:23:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/tully-rinckey-military-scholarship/",
+          "lastmod": "2026-09-23T19:46:35+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/",
+          "lastmod": "2026-09-28T14:41:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/legal-assistant-395/",
+          "lastmod": "2026-09-24T21:41:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/deputy-director-of-legal-administration-373/",
+          "lastmod": "2026-09-28T14:41:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/",
+          "lastmod": "2026-09-24T15:33:38+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/barbara-j-king/",
+          "lastmod": "2026-09-21T21:46:16+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/donald-o-chesworth/",
+          "lastmod": "2026-09-21T21:47:00+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/dan-meyer/",
+          "lastmod": "2026-09-22T20:56:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/michael-c-fallings/",
+          "lastmod": "2026-09-22T21:27:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/paul-friener/",
+          "lastmod": "2026-09-22T21:28:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/ryan-c-green/",
+          "lastmod": "2026-09-22T21:29:29+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/derrick-hogan/",
+          "lastmod": "2026-09-22T21:30:20+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/anthony-j-kuhn/",
+          "lastmod": "2026-09-22T21:33:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/michael-w-macomber/",
+          "lastmod": "2026-09-22T21:34:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/donna-williams-rucker/",
+          "lastmod": "2026-09-22T21:41:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/allen-a-shoikhetbrod/",
+          "lastmod": "2026-09-22T21:42:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/ryan-nerney/",
+          "lastmod": "2026-09-23T01:09:32+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/chad-lennon/",
+          "lastmod": "2026-09-24T15:33:38+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/",
+          "lastmod": "2026-09-23T19:54:39+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-virtual-networking-happy-hour-march/",
+          "lastmod": "2026-09-23T17:43:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/understanding-your-due-process-rights-responding-to-proposed-disciplinary-actions-2/",
+          "lastmod": "2026-09-21T22:22:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/after-the-divorce-effective-strategies-for-managing-custody-support-issues-2026/",
+          "lastmod": "2026-09-23T17:21:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/an-overview-of-the-international-arbitration-of-employment-law-disputes/",
+          "lastmod": "2026-09-23T17:22:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/applications-and-adjudications-completing-the-sf-86/",
+          "lastmod": "2026-09-23T17:34:20+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/applying-for-a-security-clearance-issues-with-foreign-travel-and-foreign-contacts-disclosure/",
+          "lastmod": "2026-09-23T17:35:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-better-selling-through-storytelling/",
+          "lastmod": "2026-09-23T17:36:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-communicating-with-primes",
+          "lastmod": "2026-09-23T17:37:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-establishing-increasing-va-benefits/",
+          "lastmod": "2026-09-23T17:37:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-virtual-networking-happy-hour-june/",
+          "lastmod": "2026-09-23T17:43:32+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-virtual-networking-happy-hour-january/",
+          "lastmod": "2026-09-23T17:43:39+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-virtual-networking-happy-hour-february-2022/",
+          "lastmod": "2026-09-23T17:43:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-virtual-networking-happy-hour-august/",
+          "lastmod": "2026-09-23T17:43:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-virtual-networking-happy-hour-april/",
+          "lastmod": "2026-09-23T17:44:00+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-october-2021/",
+          "lastmod": "2026-09-23T17:44:07+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/battlefield-to-boardroom-january",
+          "lastmod": "2026-09-23T17:44:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/corporate-transparency-act-current-reporting-rules-for-reporting-companies-and-company-applicants/",
+          "lastmod": "2026-09-23T17:51:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/what-are-the-differences-between-504-plans-and-ieps/",
+          "lastmod": "2026-09-23T19:29:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/special-education-webinar-series-how-to-home-school-your-child/",
+          "lastmod": "2026-09-23T19:31:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/due-process-complaints-and-ways-to-challenge-ieps/",
+          "lastmod": "2026-09-23T19:34:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/special-education-webinar-series-a-parents-guide-to-iees-in-new-york-state/",
+          "lastmod": "2026-09-23T19:36:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/everything-you-need-to-know-about-the-nys-school-smartphone-ban/",
+          "lastmod": "2026-09-23T19:38:00+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/the-abcs-of-preparing-for-cse-meetings/",
+          "lastmod": "2026-09-23T19:40:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/what-parents-need-to-know-about-pendency/",
+          "lastmod": "2026-09-23T19:42:18+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/special-education-webinar-series-how-and-when-to-request-updated-or-new-evaluations-of-your-child/",
+          "lastmod": "2026-09-23T19:42:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/special-education-webinar-series-what-parents-need-to-consider-during-iep-drafting-season/",
+          "lastmod": "2026-09-23T19:43:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/5189/",
+          "lastmod": "2026-09-23T19:50:35+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/what-to-consider-before-creating-your-estate-plan/",
+          "lastmod": "2026-09-23T19:52:35+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/cle-the-basics-of-guardianship-in-new-york/",
+          "lastmod": "2026-09-23T19:52:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/overview-of-supplemental-needs-trusts/",
+          "lastmod": "2026-09-23T19:52:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/family-offense-matters-in-new-york-state/",
+          "lastmod": "2026-09-23T19:54:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/know-before-you-go-cse-recommended-school-tour-essentials/",
+          "lastmod": "2026-09-23T19:54:39+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/",
+          "lastmod": "2026-09-24T15:53:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/syracuse-ny/legal-services/criminal-law/syracuse-theft-lawyer/",
+          "lastmod": "2026-09-23T17:32:30+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/rochester-ny/legal-services/criminal-law/property-crime/",
+          "lastmod": "2026-09-23T18:55:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/albany-ny/legal-services/family-matrimonial-law/",
+          "lastmod": "2026-09-24T15:35:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/albany-ny/legal-services/family-matrimonial-law/albany-juvenile-delinquency-lawyer/",
+          "lastmod": "2026-09-24T15:36:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/albany-ny/legal-services/family-matrimonial-law/albany-family-and-matrimonial-law/",
+          "lastmod": "2026-09-24T15:37:09+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/albany-ny/legal-services/family-matrimonial-law/albany-marital-agreement-lawyer/",
+          "lastmod": "2026-09-24T15:38:22+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/buffalo-ny/legal-services/family-matrimonial-law/child-custody/",
+          "lastmod": "2026-09-24T15:40:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/buffalo-ny/legal-services/family-matrimonial-law/buffalo-child-support-lawyer/",
+          "lastmod": "2026-09-24T15:40:45+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/buffalo-ny/legal-services/family-matrimonial-law/family-offenses/",
+          "lastmod": "2026-09-24T15:41:41+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/spousal-support/",
+          "lastmod": "2026-09-24T15:44:17+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/white-plains-separation-agreement-attorneys/",
+          "lastmod": "2026-09-24T15:44:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/postnuptial-agreements/",
+          "lastmod": "2026-09-24T15:44:38+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/white-plains-prenuptial-agreement-attorneys/",
+          "lastmod": "2026-09-24T15:44:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/grandparents-rights/",
+          "lastmod": "2026-09-24T15:45:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/white-plains-family-offense-attorneys/",
+          "lastmod": "2026-09-24T15:45:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/divorce/",
+          "lastmod": "2026-09-24T15:45:23+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/childs-support/",
+          "lastmod": "2026-09-24T15:45:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/custody/",
+          "lastmod": "2026-09-24T15:45:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/child-abuse-neglect/",
+          "lastmod": "2026-09-24T15:46:00+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/white-plains-ny/legal-services/white-plains-family/white-plains-adoption-attorneys/",
+          "lastmod": "2026-09-24T15:46:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/buffalo-ny/legal-services/family-matrimonial-law/child-abuse-neglect/",
+          "lastmod": "2026-09-24T15:48:33+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/rochester-ny/legal-services/family-matrimonial-law/divorce-law/",
+          "lastmod": "2026-09-24T15:50:37+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/rochester-ny/legal-services/family-matrimonial-law/grandparents-rights/",
+          "lastmod": "2026-09-24T15:51:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/rochester-ny/legal-services/family-matrimonial-law/rochester-military-divorce-lawyer/",
+          "lastmod": "2026-09-24T15:51:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/rochester-ny/legal-services/family-matrimonial-law/rochester-separation-agreements-lawyer/",
+          "lastmod": "2026-09-24T15:53:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/rochester-ny/legal-services/family-matrimonial-law/rochester-spousal-support-lawyer/",
+          "lastmod": "2026-09-24T15:53:54+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/",
+          "lastmod": "2026-09-25T21:14:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/scale-of-crimes-in-marines-smuggling-case-at-border-is-unusual/",
+          "lastmod": "2026-09-23T18:59:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/tully-rinckey-announces-new-equity-partner-class-of-11/",
+          "lastmod": "2026-09-23T19:48:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/mccabes-foia-complaint-is-unique-to-public-sector/",
+          "lastmod": "2026-09-23T19:55:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/",
+          "lastmod": "2026-09-24T15:05:25+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/immigration-law",
+          "lastmod": "2026-09-23T17:15:21+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/immigration-law/employment-based-immigration/",
+          "lastmod": "2026-09-23T17:19:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/federal-employment-law/",
+          "lastmod": "2026-09-24T15:05:25+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-dcfesq-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-evansfox-com",
+      "newUrls": [],
+      "removedUrls": [
+        {
+          "url": "https://www.evansfox.com/we-are-open/",
+          "lastmod": "2020-05-18T12:56:34+00:00"
+        },
+        {
+          "url": "https://www.evansfox.com/sublet-opportunity-for-professional-offices-in-gates-near-tinseltown/",
+          "lastmod": "2020-06-11T13:37:57+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.evansfox.com/topics/tjlf-in-the-community/",
+          "lastmod": "2020-06-02T16:19:01+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-jmlawfirm-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-trevettcristo-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "http://live-trevett-cristo.pantheonsite.io/attorneys/jessica-l-naclerio",
+          "lastmod": "2026-09-24T15:11Z"
+        },
+        {
+          "url": "http://live-trevett-cristo.pantheonsite.io/attorneys/david-r-coletti",
+          "lastmod": "2026-09-24T15:27Z"
+        }
+      ]
+    }
+  ]
+}
