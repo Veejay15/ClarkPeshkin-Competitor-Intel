@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-19",
+  "previousDate": "2026-10-12",
+  "diffs": [
+    {
+      "competitorId": "www-tullylegal-com",
+      "newUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/why-it-makes-sense-to-take-your-employer-to-court-in-texas/",
+          "lastmod": "2026-10-14T22:16:30+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/veterans-preference-in-federal-hiring-what-federal-job-applicants-need-to-know/",
+          "lastmod": "2026-10-16T22:21:29+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/practice-administrator-operations-406/",
+          "lastmod": "2026-10-13T19:31:33+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/military-attorney-408/",
+          "lastmod": "2026-10-14T20:40:29+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/brandan-c-parks/",
+          "lastmod": "2026-10-13T21:16:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/elaine-vadas-hamdan/",
+          "lastmod": "2026-10-14T13:51:44+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/eeoc-trans-policy-pivot-in-spotlight-in-workplace-bias-suit/",
+          "lastmod": "2026-10-13T15:29:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/law-firm-tully-rinckey-to-open-1st-midwest-office-in-columbus/",
+          "lastmod": "2026-10-13T15:39:25+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/concerns-over-criminal-past-of-new-superintendents-husband-in-canajoharie/",
+          "lastmod": "2026-10-15T15:16:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/trump-cancels-live-stream-of-fort-hood-shooter-nidal-hasans-firing-squad-execution-survivors-react/",
+          "lastmod": "2026-10-16T16:45:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/news10-investigates-ever-wonder-whats-in-your-work-file-new-york-law-will-let-you-ask-to-see-it/",
+          "lastmod": "2026-10-16T16:50:33+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.tullylegal.com/jobs/docketing-clerk-336/",
+          "lastmod": "2026-08-27T13:48:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/digital-marketing-associate-341/",
+          "lastmod": "2026-09-10T18:40:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/military-attorney-368/",
+          "lastmod": "2026-09-17T20:10:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/legal-assistant-401/",
+          "lastmod": "2026-09-28T13:27:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/patricia-washington/",
+          "lastmod": "2026-09-17T15:07:00+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/courtney-deblois/",
+          "lastmod": "2026-09-29T13:30:48+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/",
+          "lastmod": "2026-10-16T22:21:29+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/i-failed-a-military-drug-test-what-now/",
+          "lastmod": "2026-10-16T15:12:33+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/consultation-guide/",
+          "lastmod": "2026-10-16T19:23:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/consultation-guide/book-a-consultation/",
+          "lastmod": "2026-10-16T20:52:23+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/jobs/",
+          "lastmod": "2026-10-14T20:40:29+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/",
+          "lastmod": "2026-10-14T19:43:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/jennifer-m-deteso/",
+          "lastmod": "2026-10-14T13:48:34+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/michael-james-yadanza/",
+          "lastmod": "2026-10-14T13:50:23+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/lauren-sheeley/",
+          "lastmod": "2026-10-14T13:50:28+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/joseph-d-wilkinson-ii/",
+          "lastmod": "2026-10-14T13:50:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/sean-c-timmons/",
+          "lastmod": "2026-10-14T19:43:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/",
+          "lastmod": "2026-10-16T16:50:33+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/",
+          "lastmod": "2026-10-14T19:41:53+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/military-law/userra/",
+          "lastmod": "2026-10-14T19:41:53+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-dcfesq-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-evansfox-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-jmlawfirm-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-trevettcristo-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": [
+        {
+          "url": "http://live-trevett-cristo.pantheonsite.io/attorneys/david-g-ross",
+          "lastmod": "2026-10-15T20:33Z"
+        },
+        {
+          "url": "http://live-trevett-cristo.pantheonsite.io/attorneys/brian-shiffrin",
+          "lastmod": "2026-10-12T19:30Z"
+        }
+      ]
+    }
+  ]
+}
