@@ -1,0 +1,2390 @@
+{
+  "date": "2026-10-26",
+  "summaries": [
+    {
+      "filename": "seranking-backlinks-www-tullylegal-com.json",
+      "competitorId": "www-tullylegal-com",
+      "type": "backlinks",
+      "rowCount": 100,
+      "topRows": [
+        {
+          "source_page": "https://clinicdirectory.net/powell/rheumatology/michael-belsky-md/",
+          "source_page_title": "Michael Belsky, MD - Rheumatology in Powell, WY",
+          "target_page": "https://www.tullylegal.com/our-firm/news/empire-state-weekly-supreme-court-upholds-birthright-citizenship/",
+          "anchor": "Empire State Weekly: Supreme Court upholds birthright citizenship - Tully Rinckey PLLC",
+          "domain_authority": "4",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-26"
+        },
+        {
+          "source_page": "https://www.americantimesreporter.com/article/926329350-tully-rinckey-mourns-the-passing-of-former-managing-partner-donald-chesworth",
+          "source_page_title": "Tully Rinckey Mourns the Passing of Former Managing Partner Donald Chesworth | American Times Reporter",
+          "target_page": "http://www.tullylegal.com/",
+          "anchor": "Tully Rinckey PLLC",
+          "domain_authority": "55",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-24"
+        },
+        {
+          "source_page": "https://www.everythingworthreading.com/article/941210597-tully-rinckey-pllc-partners-with-fedweek-for-new-legal-handbook-for-federal-employees",
+          "source_page_title": "Tully Rinckey PLLC Partners with FEDweek for New Legal Handbook for Federal Employees | Everything Worth Reading",
+          "target_page": "http://www.tullylegal.com/",
+          "anchor": "Tully Rinckey PLLC",
+          "domain_authority": "19",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-24"
+        },
+        {
+          "source_page": "http://topratedlaw.com/lawyer/maricus-lofton-esq",
+          "source_page_title": "Maricus Lofton Esq.",
+          "target_page": "https://www.tullylegal.com/",
+          "anchor": "https://www.tullylegal.com/",
+          "domain_authority": "25",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-24"
+        },
+        {
+          "source_page": "https://topratedlaw.com/lawyer/maricus-lofton-esq",
+          "source_page_title": "Maricus Lofton Esq.",
+          "target_page": "https://www.tullylegal.com/",
+          "anchor": "https://www.tullylegal.com/",
+          "domain_authority": "25",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-24"
+        },
+        {
+          "source_page": "https://classactiontimes.com/?page=1077",
+          "source_page_title": "",
+          "target_page": "http://www.tullylegal.com/",
+          "anchor": "http://www.tullylegal.com",
+          "domain_authority": "6",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-23"
+        },
+        {
+          "source_page": "https://thelawyersofdistinction.com/district-of-columbia-lawyers/donna-williams-rucker/",
+          "source_page_title": "Donna Williams Rucker - Labor Lawyer in Washington, DC | Lawyers of Distinction",
+          "target_page": "https://www.tullylegal.com/",
+          "anchor": "Visit firm website",
+          "domain_authority": "71",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-23"
+        },
+        {
+          "source_page": "https://www.bronxlawfirmus.com/blog/5-steps-to-find-the-right-labor-law-attorney-in-the-bronx/",
+          "source_page_title": "5 Steps to Find the Right Labor Law Attorney in the Bronx – The Law Offices of Evan W. Kohn",
+          "target_page": "https://tullylegal.com/manhattan-employment-law",
+          "anchor": "tullylegal.com",
+          "domain_authority": "1",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-23"
+        },
+        {
+          "source_page": "https://worldjobseeker.com/article/941210597-tully-rinckey-pllc-partners-with-fedweek-for-new-legal-handbook-for-federal-employees",
+          "source_page_title": "Tully Rinckey PLLC Partners with FEDweek for New Legal Handbook for Federal Employees | World Job Seeker",
+          "target_page": "http://www.tullylegal.com/",
+          "anchor": "Tully Rinckey PLLC",
+          "domain_authority": "26",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-22"
+        },
+        {
+          "source_page": "https://jdean-law.com/company-news-paul-j-tortora-jr-hired-by-tully-rinckey-law-firms-syracuse-office.html",
+          "source_page_title": "Company news: Paul J. Tortora Jr. hired by Tully Rinckey law firm’s Syracuse office – Jdean Law",
+          "target_page": "https://www.tullylegal.com/",
+          "anchor": "Tully Rinckey PLLC",
+          "domain_authority": "34",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-22"
+        },
+        {
+          "source_page": "https://jdean-law.com/monkeypox-vaccine-mandates-do-not-exist-but-this-law-firm-is-ready.html",
+          "source_page_title": "Monkeypox Vaccine Mandates Do Not Exist, but This Law Firm Is Ready – Jdean Law",
+          "target_page": "https://www.tullylegal.com/our-firm/news/military-covid-vaccine-mandate-poses-national-security-risk/",
+          "anchor": "In a latest blog site write-up",
+          "domain_authority": "34",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-22"
+        },
+        {
+          "source_page": "https://mexpedia.org/index.php/Contrato_individual_de_trabajo",
+          "source_page_title": "Contrato individual de trabajo - Mexpedia",
+          "target_page": "https://www.tullylegal.com/resources/articles/clear-terms-conditions-key-to-successful-employment-agreements/",
+          "anchor": "«Clear Terms, Conditions Key to Successful Employment Agreements»",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-22"
+        },
+        {
+          "source_page": "https://gossiphealth.com/tag/rules/page/2",
+          "source_page_title": "Rules - Page 2 of 2 - Gossip Health",
+          "target_page": "https://www.tullylegal.com/attorneys/sean-c-timmons/",
+          "anchor": "a running partner at the legislation agency Tully Rinckey",
+          "domain_authority": "15",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-21"
+        },
+        {
+          "source_page": "https://www.manninghammedicalcentre.com.au/m-medical/medical-discharge-navy.html",
+          "source_page_title": "Medical Discharge Navy - Manningham Medical Centre",
+          "target_page": "https://www.tullylegal.com/wp-content/uploads/Guide_to_Obtaining_Medical_Discharge.pdf",
+          "anchor": "A Guide to Obtaining Medical Discharge - Tully Rinckey PLLC",
+          "domain_authority": "18",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-21"
+        },
+        {
+          "source_page": "https://www.waytolegal.com/legal-help-guides/probate-timelines-after-death/",
+          "source_page_title": "Probate Timelines: How Long After Death?",
+          "target_page": "https://www.tullylegal.com/resources/articles/how-long-does-probate-take-in-new-york-state/",
+          "anchor": "https://www.tullylegal.com/resources/articles/how-long-does-probate-take-in-new-york-state/",
+          "domain_authority": "9",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-21"
+        },
+        {
+          "source_page": "https://www.waytolegal.com/legal-help-guides/new-york-prenup-guide-2026/",
+          "source_page_title": "New York Prenup Guide: Essentials for 2026",
+          "target_page": "https://www.tullylegal.com/resources/articles/prenuptial-and-postnuptial-agreements-in-new-york-whats-the-difference/",
+          "anchor": "https://www.tullylegal.com/resources/articles/prenuptial-and-postnuptial-agreements-in-new-york-whats-the-difference/",
+          "domain_authority": "9",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-21"
+        },
+        {
+          "source_page": "https://www.waytolegal.com/legal-help-guides/tax-credits-hiring-veterans-employer-guide/",
+          "source_page_title": "Tax Credits for Veteran Hiring: Complete Guide",
+          "target_page": "https://www.tullylegal.com/resources/articles/thank-a-veteran-then-hire-one-to-become-eligible-for-a-tax-break-2/",
+          "anchor": "https://www.tullylegal.com/resources/articles/thank-a-veteran-then-hire-one-to-become-eligible-for-a-tax-break-2/",
+          "domain_authority": "9",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-21"
+        },
+        {
+          "source_page": "https://www.waytolegal.com/legal-help-guides/college-costs-divorce-parental-responsibilities/",
+          "source_page_title": "College Costs After Divorce: Navigating Parental Responsibilities",
+          "target_page": "https://www.tullylegal.com/resources/articles/three-tips-for-divorced-or-separated-parents-concerned-about-paying-for-their-childs-college-education/",
+          "anchor": "https://www.tullylegal.com/resources/articles/three-tips-for-divorced-or-separated-parents-concerned-about-paying-for-their-childs-college-education/",
+          "domain_authority": "9",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-21"
+        },
+        {
+          "source_page": "https://www.dcentertainmentwire.com/article/941210597-tully-rinckey-pllc-partners-with-fedweek-for-new-legal-handbook-for-federal-employees",
+          "source_page_title": "Tully Rinckey PLLC Partners with FEDweek for New Legal Handbook for Federal Employees | DC Entertainment Wire",
+          "target_page": "http://www.tullylegal.com/",
+          "anchor": "Tully Rinckey PLLC",
+          "domain_authority": "10",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-20"
+        },
+        {
+          "source_page": "https://digest.law/contract-law/assignment-of-contractual-rights-and-duties/assignability-of-contractual-rights/future-claims/present-assignability-of-future-claims/audit/",
+          "source_page_title": "Build log — Present Assignability of Future Claims — American Legal Digest",
+          "target_page": "https://www.tullylegal.com/resources/articles/what-federal-employees-need-to-know-about-future-appeals-after-key-u-s-supreme-court-ruling/",
+          "anchor": "https://www.tullylegal.com/resources/articles/what-federal-employees-need-to-know-about-future-appeals-after-key-u-s-supreme-court-ruling/",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-20"
+        },
+        {
+          "source_page": "https://www.manninghammedicalcentre.com.au/m-medical/medical-army-discharge.html",
+          "source_page_title": "Medical Army Discharge - Manningham Medical Centre",
+          "target_page": "https://www.tullylegal.com/wp-content/uploads/Guide_to_Obtaining_Medical_Discharge.pdf",
+          "anchor": "A Guide to Obtaining Medical Discharge - Tully Rinckey PLLC",
+          "domain_authority": "18",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-20"
+        },
+        {
+          "source_page": "https://jobsandcareerswatch.com/article/941210597-tully-rinckey-pllc-partners-with-fedweek-for-new-legal-handbook-for-federal-employees",
+          "source_page_title": "Tully Rinckey PLLC Partners with FEDweek for New Legal Handbook for Federal Employees | Jobs & Careers Watch",
+          "target_page": "http://www.tullylegal.com/",
+          "anchor": "Tully Rinckey PLLC",
+          "domain_authority": "40",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-19"
+        },
+        {
+          "source_page": "https://www.stateoftheunionnews.com/article/926329350-tully-rinckey-mourns-the-passing-of-former-managing-partner-donald-chesworth",
+          "source_page_title": "Tully Rinckey Mourns the Passing of Former Managing Partner Donald Chesworth | State of the Union News",
+          "target_page": "http://www.tullylegal.com/",
+          "anchor": "Tully Rinckey PLLC",
+          "domain_authority": "52",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-19"
+        },
+        {
+          "source_page": "https://news.bloomberglaw.com/ip-law/two-more-unions-to-push-district-court-to-block-trump-cba-order",
+          "source_page_title": "Two More Unions to Push District Court to Block Trump CBA Order",
+          "target_page": "https://www.tullylegal.com/attorneys/michael-c-fallings/",
+          "anchor": "Michael Fallings",
+          "domain_authority": "92",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-19"
+        },
+        {
+          "source_page": "https://igotta.app/biz/0aba3f08-ef31-4e69-8dd9-54d386c8d681/tully-rinckey-pllc",
+          "source_page_title": "Tully Rinckey PLLC in Ladera Ranch, CA - Recommended on iGotta",
+          "target_page": "https://www.tullylegal.com/locations/ladera-ranch-ca/",
+          "anchor": "www.tullylegal.com/locations/ladera-ranch-ca/",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-keywords-www-tullylegal-com.json",
+      "competitorId": "www-tullylegal-com",
+      "type": "positions",
+      "rowCount": 100,
+      "topRows": [
+        {
+          "keyword": "employment lawyer",
+          "position": "23",
+          "previous_position": "23",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "135000",
+          "cpc": "2.5",
+          "difficulty": "63",
+          "estimated_traffic": "1054"
+        },
+        {
+          "keyword": "family lawyer near me",
+          "position": "16",
+          "previous_position": "16",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/manhattan-family/",
+          "search_volume": "74000",
+          "cpc": "2.84",
+          "difficulty": "69",
+          "estimated_traffic": "777"
+        },
+        {
+          "keyword": "iep vs 504",
+          "position": "2",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.tullylegal.com/resources/articles/iep-vs-504-plan-understanding-the-difference/",
+          "search_volume": "14800",
+          "cpc": "0.08",
+          "difficulty": "56",
+          "estimated_traffic": "662"
+        },
+        {
+          "keyword": "sbp",
+          "position": "2",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.tullylegal.com/resources/articles/what-you-need-to-know-about-your-sbp-benefits/",
+          "search_volume": "18100",
+          "cpc": "0.85",
+          "difficulty": "72",
+          "estimated_traffic": "399"
+        },
+        {
+          "keyword": "employment attorney near me",
+          "position": "18",
+          "previous_position": "18",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "47500",
+          "cpc": "2.17",
+          "difficulty": "59",
+          "estimated_traffic": "321"
+        },
+        {
+          "keyword": "employment law lawyers",
+          "position": "18",
+          "previous_position": "18",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "27100",
+          "cpc": "2.4",
+          "difficulty": "66",
+          "estimated_traffic": "315"
+        },
+        {
+          "keyword": "family law attorneys near me",
+          "position": "26",
+          "previous_position": "26",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/manhattan-family/",
+          "search_volume": "27800",
+          "cpc": "2.84",
+          "difficulty": "59",
+          "estimated_traffic": "307"
+        },
+        {
+          "keyword": "child support lawyer",
+          "position": "18",
+          "previous_position": "18",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/manhattan-family/child-support/",
+          "search_volume": "60500",
+          "cpc": "2.43",
+          "difficulty": "54",
+          "estimated_traffic": "306"
+        },
+        {
+          "keyword": "employment law attorney",
+          "position": "21",
+          "previous_position": "21",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "40500",
+          "cpc": "2.4",
+          "difficulty": "64",
+          "estimated_traffic": "293"
+        },
+        {
+          "keyword": "rinckey",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/",
+          "search_volume": "1300",
+          "cpc": "4.36",
+          "difficulty": "67",
+          "estimated_traffic": "262"
+        },
+        {
+          "keyword": "employment lawyers near me",
+          "position": "18",
+          "previous_position": "18",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "47500",
+          "cpc": "2.17",
+          "difficulty": "53",
+          "estimated_traffic": "238"
+        },
+        {
+          "keyword": "employment law attorney near me",
+          "position": "18",
+          "previous_position": "18",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "18100",
+          "cpc": "2.17",
+          "difficulty": "62",
+          "estimated_traffic": "210"
+        },
+        {
+          "keyword": "tully rinckey",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/",
+          "search_volume": "920",
+          "cpc": "4.36",
+          "difficulty": "11",
+          "estimated_traffic": "200"
+        },
+        {
+          "keyword": "employment lawyer near me",
+          "position": "21",
+          "previous_position": "21",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "20100",
+          "cpc": "2.17",
+          "difficulty": "58",
+          "estimated_traffic": "186"
+        },
+        {
+          "keyword": "workplace lawyers near me",
+          "position": "25",
+          "previous_position": "25",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "14800",
+          "cpc": "2.17",
+          "difficulty": "60",
+          "estimated_traffic": "173"
+        },
+        {
+          "keyword": "family law lawyer near me",
+          "position": "30",
+          "previous_position": "30",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/manhattan-family/",
+          "search_volume": "27800",
+          "cpc": "2.84",
+          "difficulty": "64",
+          "estimated_traffic": "169"
+        },
+        {
+          "keyword": "will and trust",
+          "position": "23",
+          "previous_position": "23",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/resources/articles/what-is-the-difference-between-a-will-and-a-trust-in-new-york-state/",
+          "search_volume": "49500",
+          "cpc": "2.54",
+          "difficulty": "61",
+          "estimated_traffic": "149"
+        },
+        {
+          "keyword": "work lawyers near me",
+          "position": "23",
+          "previous_position": "23",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "20100",
+          "cpc": "2.17",
+          "difficulty": "55",
+          "estimated_traffic": "146"
+        },
+        {
+          "keyword": "what is social security",
+          "position": "6",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.tullylegal.com/resources/articles/can-a-divorced-spouse-collect-social-security-from-their-former-spouse/",
+          "search_volume": "18100",
+          "cpc": "0.04",
+          "difficulty": "72",
+          "estimated_traffic": "132"
+        },
+        {
+          "keyword": "family law attorney near me",
+          "position": "28",
+          "previous_position": "28",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/manhattan-family/",
+          "search_volume": "96200",
+          "cpc": "2.84",
+          "difficulty": "61",
+          "estimated_traffic": "131"
+        },
+        {
+          "keyword": "employment law lawyer",
+          "position": "19",
+          "previous_position": "19",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "22400",
+          "cpc": "2.4",
+          "difficulty": "60",
+          "estimated_traffic": "121"
+        },
+        {
+          "keyword": "wills and trusts",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/resources/articles/what-is-the-difference-between-a-will-and-a-trust-in-new-york-state/",
+          "search_volume": "40500",
+          "cpc": "2.54",
+          "difficulty": "70",
+          "estimated_traffic": "118"
+        },
+        {
+          "keyword": "employment attorney",
+          "position": "26",
+          "previous_position": "26",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/new-york-employment-law/",
+          "search_volume": "22200",
+          "cpc": "2.58",
+          "difficulty": "59",
+          "estimated_traffic": "115"
+        },
+        {
+          "keyword": "tully's",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/locations/manhattan-ny/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=NYC&utm_content=homepage",
+          "search_volume": "6600",
+          "cpc": "0.42",
+          "difficulty": "59",
+          "estimated_traffic": "115"
+        },
+        {
+          "keyword": "212 e",
+          "position": "24",
+          "previous_position": "24",
+          "position_change": "0",
+          "url": "https://www.tullylegal.com/legal-services/immigration-law/employment-based-immigration/the-j1-foreign-residence-requirement/",
+          "search_volume": "14800",
+          "cpc": "3.06",
+          "difficulty": "95",
+          "estimated_traffic": "88"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-backlinks-www-dcfesq-com.json",
+      "competitorId": "www-dcfesq-com",
+      "type": "backlinks",
+      "rowCount": 7,
+      "topRows": [
+        {
+          "source_page": "http://seo-tip.com/domain.php?part=63265",
+          "source_page_title": "High-LevelSEO Practice: A Comprehensive Guide from Technical Optimization to Content Strategy | best seo guide for webmaster",
+          "target_page": "https://dcfesq.com/",
+          "anchor": "dcfesq.com",
+          "domain_authority": "70",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-19"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/general-practice-attorneys/dentino-cammarata-fazio/",
+          "source_page_title": "Dentino, Cammarata & Fazio — General Practice Attorney in Rochester, NY | New York Law TV",
+          "target_page": "https://www.dcfesq.com/",
+          "anchor": "Website",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-08"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/general-practice-attorneys/dentino-cammarata-fazio/",
+          "source_page_title": "Dentino, Cammarata & Fazio — General Practice Attorney in Rochester, NY | New York Law TV",
+          "target_page": "https://www.dcfesq.com/",
+          "anchor": "dcfesq.com",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-08"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/general-practice-attorneys/rochester/",
+          "source_page_title": "General Practice Attorneys in Rochester, New York | New York Law TV",
+          "target_page": "https://www.dcfesq.com/",
+          "anchor": "dcfesq.com",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-07"
+        },
+        {
+          "source_page": "https://www.lexpilot.us/firms/wills-estates",
+          "source_page_title": "Wills & Estates — Estate Planning Law Firm in... | LexPilot",
+          "target_page": "https://dcfesq.com/",
+          "anchor": "Contact / Visit Website",
+          "domain_authority": "1",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-06"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/attorneys/family-law-attorney/new-york/rochester/page/3/",
+          "source_page_title": "Family Law Attorneys in Rochester, New York — Page 3 | AttorneysListed",
+          "target_page": "http://www.dcfesq.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-05"
+        },
+        {
+          "source_page": "https://www.justcauseny.org/volunteer",
+          "source_page_title": "Volunteer — JustCause",
+          "target_page": "http://dcfesq.com/",
+          "anchor": "Dentino, Cammarata, Fazio, LLP",
+          "domain_authority": "50",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-keywords-www-dcfesq-com.json",
+      "competitorId": "www-dcfesq-com",
+      "type": "positions",
+      "rowCount": 100,
+      "topRows": [
+        {
+          "keyword": "dentino",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "260",
+          "cpc": "0",
+          "difficulty": "5",
+          "estimated_traffic": "33"
+        },
+        {
+          "keyword": "laura fleming",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/laura-e-fleming/",
+          "search_volume": "260",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "32"
+        },
+        {
+          "keyword": "dentino cammarata & fazio",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "50",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "15"
+        },
+        {
+          "keyword": "jennifer fazio",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/fazio/",
+          "search_volume": "110",
+          "cpc": "0",
+          "difficulty": "5",
+          "estimated_traffic": "8"
+        },
+        {
+          "keyword": "joseph cammarata",
+          "position": "30",
+          "previous_position": "30",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "480",
+          "cpc": "0",
+          "difficulty": "8",
+          "estimated_traffic": "4"
+        },
+        {
+          "keyword": "steven cammarata",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/steven-m-cammarata/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "4"
+        },
+        {
+          "keyword": "ross cammarata",
+          "position": "60",
+          "previous_position": "60",
+          "position_change": "0",
+          "url": "http://www.dcfesq.com/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "4"
+        },
+        {
+          "keyword": "steve cammarata",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/steven-m-cammarata/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "3"
+        },
+        {
+          "keyword": "jennifer fazio",
+          "position": "3",
+          "previous_position": "3",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "110",
+          "cpc": "0",
+          "difficulty": "5",
+          "estimated_traffic": "2"
+        },
+        {
+          "keyword": "ross cammarata",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/cammarata/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "2"
+        },
+        {
+          "keyword": "anthony dentino attorney",
+          "position": "2",
+          "previous_position": "2",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "10",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "2"
+        },
+        {
+          "keyword": "dentino cammarata & fazio",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/contact-us/",
+          "search_volume": "50",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "2"
+        },
+        {
+          "keyword": "anthony cammarata",
+          "position": "16",
+          "previous_position": "16",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "90",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "anthony cammarata",
+          "position": "28",
+          "previous_position": "28",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/steven-m-cammarata/",
+          "search_volume": "90",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "laura fazio",
+          "position": "16",
+          "previous_position": "16",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/fazio/",
+          "search_volume": "90",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "mark dycio",
+          "position": "22",
+          "previous_position": "22",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "170",
+          "cpc": "1.65",
+          "difficulty": "5",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "llp meaning law firm",
+          "position": "9",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.dcfesq.com/practices/divorce/",
+          "search_volume": "90",
+          "cpc": "0",
+          "difficulty": "10",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "anthony dentino",
+          "position": "3",
+          "previous_position": "3",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/dentino/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "9",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "cimino law firm",
+          "position": "23",
+          "previous_position": "23",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/practices/divorce/",
+          "search_volume": "210",
+          "cpc": "2.12",
+          "difficulty": "6",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "jennifer cammarata",
+          "position": "15",
+          "previous_position": "15",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "jennifer cammarata",
+          "position": "30",
+          "previous_position": "30",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/sitemap/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "steve cammarata",
+          "position": "2",
+          "previous_position": "2",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "steve cammarata",
+          "position": "6",
+          "previous_position": "6",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "steven cammarata",
+          "position": "2",
+          "previous_position": "2",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/",
+          "search_volume": "30",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "1"
+        },
+        {
+          "keyword": "anthony dentino attorney rochester ny",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.dcfesq.com/lawyers/dentino/",
+          "search_volume": "10",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "1"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-backlinks-www-evansfox-com.json",
+      "competitorId": "www-evansfox-com",
+      "type": "backlinks",
+      "rowCount": 65,
+      "topRows": [
+        {
+          "source_page": "https://www.topdir.net/domain-list-421",
+          "source_page_title": "topdir.net | few of top websites | page no. 421",
+          "target_page": "http://evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "21",
+          "page_authority": "1",
+          "nofollow": "yes",
+          "first_seen": "2026-10-21"
+        },
+        {
+          "source_page": "https://robuta.com/?q=hoopla",
+          "source_page_title": "hoopla - Robuta Search",
+          "target_page": "https://www.evansfox.com/tracy-jong-debbie-nigro-show-cbd-hoopla/",
+          "anchor": "Tracy Jong on the Debbie Nigro Show: CBD Hoopla - Evans Fox LLP",
+          "domain_authority": "32",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-21"
+        },
+        {
+          "source_page": "https://robuta.com/?q=cidery",
+          "source_page_title": "cidery - Robuta Search",
+          "target_page": "https://www.evansfox.com/tag/farm-cidery/",
+          "anchor": "Farm Cidery Archives - Evans Fox LLP",
+          "domain_authority": "32",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-19"
+        },
+        {
+          "source_page": "https://usasymbol.com/collections/laws/weird-alcohol-laws-in-new-york",
+          "source_page_title": "Weird Alcohol Laws in New York, Explained",
+          "target_page": "https://www.evansfox.com/ny-liquor-store-compliance-permitted-items-list/",
+          "anchor": "Evans Fox LLP — What Can NY Liquor Stores Sell?",
+          "domain_authority": "32",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-14"
+        },
+        {
+          "source_page": "https://www.lawyers8.com/listings/new-york/east-rochester-132/litigation/page/4",
+          "source_page_title": "Best Litigation in East Rochester, NY",
+          "target_page": "http://evansfox.com/",
+          "anchor": "http://evansfox.com",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-12"
+        },
+        {
+          "source_page": "https://www.lawyers8.com/listings/new-york/east-rochester-132/corporate-law/page/3",
+          "source_page_title": "Best Corporate Law in East Rochester, NY",
+          "target_page": "http://evansfox.com/",
+          "anchor": "http://evansfox.com",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-12"
+        },
+        {
+          "source_page": "https://www.lawyers8.com/listings/new-york/east-rochester-132/commercial-law/page/2",
+          "source_page_title": "Best Commercial Law in East Rochester, NY",
+          "target_page": "http://evansfox.com/",
+          "anchor": "http://evansfox.com",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-12"
+        },
+        {
+          "source_page": "https://www.lawyers8.com/listings/new-york/east-rochester-132/litigation/page/7",
+          "source_page_title": "Best Litigation in East Rochester, NY",
+          "target_page": "http://evansfox.com/",
+          "anchor": "http://evansfox.com",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-12"
+        },
+        {
+          "source_page": "https://nylocal.online/monroe-county/businesses/kenneth-r-kraus-esq",
+          "source_page_title": "Kenneth R. Kraus, Esq. (Rochester) | Monroe County, NY | NY Local",
+          "target_page": "https://www.evansfox.com/attorneys/kenneth-kraus/",
+          "anchor": "Visit Website →",
+          "domain_authority": "10",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-12"
+        },
+        {
+          "source_page": "https://www.lawyers8.com/listings/new-york/east-rochester-132/page/7",
+          "source_page_title": "Best Good Lawyers in East Rochester, NY",
+          "target_page": "http://evansfox.com/",
+          "anchor": "http://evansfox.com",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-11"
+        },
+        {
+          "source_page": "https://www.lawyers8.com/listings/new-york/east-rochester-132/wills-and-probate",
+          "source_page_title": "Best Wills And Probate in East Rochester, NY",
+          "target_page": "http://evansfox.com/",
+          "anchor": "http://evansfox.com",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-11"
+        },
+        {
+          "source_page": "https://www.lawyers8.com/listings/new-york/east-rochester-132/elder-law",
+          "source_page_title": "Best Elder Law in East Rochester, NY",
+          "target_page": "http://evansfox.com/",
+          "anchor": "http://evansfox.com",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-11"
+        },
+        {
+          "source_page": "https://nonstuffyattorneys.com/attorney/kenneth-kraus-stamford-ct",
+          "source_page_title": "Kenneth Kraus - 263 Tresser Boulevard - Attorney in Stamford, CT | Non‑Stuffy Attorneys Directory",
+          "target_page": "https://www.evansfox.com/attorneys/kenneth-kraus/",
+          "anchor": "https://www.evansfox.com/attorneys/kenneth-kraus/",
+          "domain_authority": "50",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-10"
+        },
+        {
+          "source_page": "https://nonstuffyattorneys.com/attorney/jon-bonavilla-rochester-ny",
+          "source_page_title": "Jon Bonavilla - Evans Fox LLP - Attorney in Rochester, NY | Non‑Stuffy Attorneys Directory",
+          "target_page": "https://www.evansfox.com/attorneys/jon-bonavilla/",
+          "anchor": "https://www.evansfox.com/attorneys/jon-bonavilla/",
+          "domain_authority": "50",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-09"
+        },
+        {
+          "source_page": "https://lawfirmlookup.com/lawyer/alison-j-rich-esq-rochester-ny",
+          "source_page_title": "Alison J. Rich, Esq. - Attorney in Rochester, NY | Law Firm Lookup",
+          "target_page": "https://www.evansfox.com/attorneys/alison-rich/",
+          "anchor": "www.evansfox.com/attorneys/alison-rich",
+          "domain_authority": "20",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-09"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/general-practice-attorneys/evans-fox-llp/",
+          "source_page_title": "Evans Fox LLP — General Practice Attorney in Rochester, NY | New York Law TV",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "Website",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-08"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/general-practice-attorneys/evans-fox-llp/",
+          "source_page_title": "Evans Fox LLP — General Practice Attorney in Rochester, NY | New York Law TV",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-08"
+        },
+        {
+          "source_page": "https://www.backlink.work/domain-list-421",
+          "source_page_title": "backlink.work | few of top websites | page no. 421",
+          "target_page": "http://evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "7",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-07"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/general-practice-attorneys/rochester/",
+          "source_page_title": "General Practice Attorneys in Rochester, New York | New York Law TV",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "evansfox.com",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-07"
+        },
+        {
+          "source_page": "https://virtuallaunch.pro/directory/alexander-anselment-ny",
+          "source_page_title": "Alexander Anselment in Rochester, NY | Tax Pro Directory",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "www.evansfox.com",
+          "domain_authority": "6",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-05"
+        },
+        {
+          "source_page": "https://nationalprobateservices.com/listing/jacob-henry-zoghlin/",
+          "source_page_title": "Jacob Henry Zoghlin – National Probate Services",
+          "target_page": "https://www.evansfox.com/attorneys/jon-bonavilla/",
+          "anchor": "https://www.evansfox.com/attorneys/jon-bonavilla/",
+          "domain_authority": "11",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-05"
+        },
+        {
+          "source_page": "https://nationalprobateservices.com/listing/mark-michael-campanella/",
+          "source_page_title": "Mark Michael Campanella – National Probate Services",
+          "target_page": "https://www.evansfox.com/attorneys/jon-bonavilla/",
+          "anchor": "https://www.evansfox.com/attorneys/jon-bonavilla/",
+          "domain_authority": "11",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-05"
+        },
+        {
+          "source_page": "https://nationalprobateservices.com/listing/gerard-g-antetomaso/",
+          "source_page_title": "Gerard G. Antetomaso – National Probate Services",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "https://www.evansfox.com",
+          "domain_authority": "11",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-04"
+        },
+        {
+          "source_page": "https://law-firms-in.com/listing/kenneth-roland-kraus/",
+          "source_page_title": "Kenneth Roland Kraus - New York, Rochester Lawyers and Law Firms",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "https://www.evansfox.com/",
+          "domain_authority": "32",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-04"
+        },
+        {
+          "source_page": "https://nationalprobateservices.com/listing/matthew-r-winchell/",
+          "source_page_title": "Matthew R Winchell – National Probate Services",
+          "target_page": "https://www.evansfox.com/",
+          "anchor": "https://www.evansfox.com",
+          "domain_authority": "11",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-keywords-www-evansfox-com.json",
+      "competitorId": "www-evansfox-com",
+      "type": "positions",
+      "rowCount": 100,
+      "topRows": [
+        {
+          "keyword": "evans fox llp",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "10",
+          "estimated_traffic": "135"
+        },
+        {
+          "keyword": "evans fox",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "9",
+          "estimated_traffic": "89"
+        },
+        {
+          "keyword": "off license",
+          "position": "5",
+          "previous_position": "5",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/what-on-and-off-premises-liquor-licenses-mean/",
+          "search_volume": "6600",
+          "cpc": "0",
+          "difficulty": "67",
+          "estimated_traffic": "51"
+        },
+        {
+          "keyword": "evans fox llp",
+          "position": "47",
+          "previous_position": "47",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "10",
+          "estimated_traffic": "27"
+        },
+        {
+          "keyword": "llc ownership",
+          "position": "2",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.evansfox.com/choosing-my-llcs-management-structure-member-versus-manager-managed/",
+          "search_volume": "590",
+          "cpc": "2.16",
+          "difficulty": "6",
+          "estimated_traffic": "25"
+        },
+        {
+          "keyword": "evans fox llp",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/attorneys/",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "10",
+          "estimated_traffic": "19"
+        },
+        {
+          "keyword": "liquor laws",
+          "position": "2",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.evansfox.com/liquor-laws-and-regulations-for-retail-dealers/",
+          "search_volume": "390",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "18"
+        },
+        {
+          "keyword": "rochester law firm",
+          "position": "10",
+          "previous_position": "10",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "480",
+          "cpc": "4.21",
+          "difficulty": "18",
+          "estimated_traffic": "15"
+        },
+        {
+          "keyword": "evans fox",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/attorneys/",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "9",
+          "estimated_traffic": "12"
+        },
+        {
+          "keyword": "and desist order",
+          "position": "12",
+          "previous_position": "12",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/trademark-cease-and-desist-letter-vlog/",
+          "search_volume": "2400",
+          "cpc": "0.15",
+          "difficulty": "65",
+          "estimated_traffic": "12"
+        },
+        {
+          "keyword": "attorney rochester",
+          "position": "16",
+          "previous_position": "16",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "910",
+          "cpc": "5.82",
+          "difficulty": "17",
+          "estimated_traffic": "11"
+        },
+        {
+          "keyword": "evans legal",
+          "position": "15",
+          "previous_position": "15",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "480",
+          "cpc": "7.36",
+          "difficulty": "11",
+          "estimated_traffic": "10"
+        },
+        {
+          "keyword": "lawyer rochester",
+          "position": "17",
+          "previous_position": "17",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "910",
+          "cpc": "5.82",
+          "difficulty": "22",
+          "estimated_traffic": "9"
+        },
+        {
+          "keyword": "rochester ny law firms",
+          "position": "21",
+          "previous_position": "21",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "480",
+          "cpc": "4.21",
+          "difficulty": "26",
+          "estimated_traffic": "8"
+        },
+        {
+          "keyword": "member managed or manager managed",
+          "position": "2",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.evansfox.com/choosing-my-llcs-management-structure-member-versus-manager-managed/",
+          "search_volume": "170",
+          "cpc": "0.03",
+          "difficulty": "5",
+          "estimated_traffic": "8"
+        },
+        {
+          "keyword": "arentfox",
+          "position": "24",
+          "previous_position": "24",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "3200",
+          "cpc": "0",
+          "difficulty": "72",
+          "estimated_traffic": "8"
+        },
+        {
+          "keyword": "arent fox",
+          "position": "24",
+          "previous_position": "24",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "1800",
+          "cpc": "0",
+          "difficulty": "75",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "law firms in rochester",
+          "position": "19",
+          "previous_position": "19",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "480",
+          "cpc": "4.21",
+          "difficulty": "28",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "fox and fox",
+          "position": "21",
+          "previous_position": "21",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "8",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "ocm maps",
+          "position": "18",
+          "previous_position": "18",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/ocm-issues-advisory-on-cannabis-retail-location-proximity-rules/",
+          "search_volume": "390",
+          "cpc": "0",
+          "difficulty": "16",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "general business",
+          "position": "7",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.evansfox.com/topics/general-business/page/75/",
+          "search_volume": "810",
+          "cpc": "9.34",
+          "difficulty": "19",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "how old do you have to be to sell alcohol",
+          "position": "12",
+          "previous_position": "12",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/new-york-statutes-regarding-alcohol-and-persons-under-the-age-of-twenty-one/",
+          "search_volume": "390",
+          "cpc": "0",
+          "difficulty": "28",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "real estate attorneys rochester ny",
+          "position": "8",
+          "previous_position": "8",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "9",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "attorney in rochester ny",
+          "position": "20",
+          "previous_position": "20",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/",
+          "search_volume": "390",
+          "cpc": "5.82",
+          "difficulty": "21",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "tracy jong law firm",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.evansfox.com/attorneys/tracy-jong/",
+          "search_volume": "50",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "6"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-backlinks-www-jmlawfirm-com.json",
+      "competitorId": "www-jmlawfirm-com",
+      "type": "backlinks",
+      "rowCount": 17,
+      "topRows": [
+        {
+          "source_page": "https://attorneyslisted.com/attorneys/real-estate-attorney/new-york/page/8/",
+          "source_page_title": "Real Estate Attorneys in New York — Page 8 | AttorneysListed",
+          "target_page": "http://www.jmlawfirm.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-19"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/real-estate-law-attorneys/marchioni-and-associates/",
+          "source_page_title": "Marchioni and Associates — Real Estate Attorney in Brighton, NY | New York Law TV",
+          "target_page": "http://www.jmlawfirm.com/",
+          "anchor": "Website",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-12"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/real-estate-law-attorneys/marchioni-and-associates/",
+          "source_page_title": "Marchioni and Associates — Real Estate Attorney in Brighton, NY | New York Law TV",
+          "target_page": "http://www.jmlawfirm.com/",
+          "anchor": "jmlawfirm.com",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-12"
+        },
+        {
+          "source_page": "https://www.lawyerland.com/lawyers/law-firms/real-estate/homeowners-association/rochester/ny/",
+          "source_page_title": "Rochester Homeowners Association Lawyers | Top Attorneys in Rochester, NY",
+          "target_page": "http://jmlawfirm.com/",
+          "anchor": "http://jmlawfirm.com",
+          "domain_authority": "78",
+          "page_authority": "15",
+          "nofollow": "yes",
+          "first_seen": "2026-10-08"
+        },
+        {
+          "source_page": "https://www.lawyerland.com/lawyers/law-firms/real-estate/neighbors/rochester/ny/",
+          "source_page_title": "Rochester Neighbors Lawyers | Top Attorneys in Rochester, NY",
+          "target_page": "http://jmlawfirm.com/",
+          "anchor": "http://jmlawfirm.com",
+          "domain_authority": "78",
+          "page_authority": "15",
+          "nofollow": "yes",
+          "first_seen": "2026-10-03"
+        },
+        {
+          "source_page": "https://ericwhitlock.com/vendors",
+          "source_page_title": "Vendors in Rochester NY | Eric Whitlock Real Estate",
+          "target_page": "https://www.jmlawfirm.com/contact/",
+          "anchor": "jmlawfirm.com",
+          "domain_authority": "4",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-02"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/location/rochester/page/3/",
+          "source_page_title": "Rochester Lawyers — Page 3 | AttorneysListed",
+          "target_page": "http://www.jmlawfirm.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-30"
+        },
+        {
+          "source_page": "https://legal-directory.net/directory/lawyers/marchioni-associates/",
+          "source_page_title": "Marchioni & Associates | Rochester Legal Directory",
+          "target_page": "http://www.jmlawfirm.com/",
+          "anchor": "http://www.jmlawfirm.com/",
+          "domain_authority": "24",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-30"
+        },
+        {
+          "source_page": "https://legal-directory.net/single-location/rochester/",
+          "source_page_title": "Rochester | Legal Directory",
+          "target_page": "http://www.jmlawfirm.com/",
+          "anchor": "http://www.jmlawfirm.com/",
+          "domain_authority": "24",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-30"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/attorneys/real-estate-attorney/new-york/rochester/",
+          "source_page_title": "Real Estate Attorneys in Rochester, New York | AttorneysListed",
+          "target_page": "http://www.jmlawfirm.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-29"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/marchioni-and-associates-llc",
+          "source_page_title": "MARCHIONI & ASSOCIATES, LLC — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.jmlawfirm.com/",
+          "anchor": "jmlawfirm.com (opens in a new tab)",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-28"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/marchioni-and-associates-llc",
+          "source_page_title": "MARCHIONI & ASSOCIATES, LLC — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.jmlawfirm.com/contact",
+          "anchor": "jmlawfirm.com/contact (opens in a new tab)",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-28"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/marchioni-and-associates-llc",
+          "source_page_title": "MARCHIONI & ASSOCIATES, LLC — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.jmlawfirm.com/contact",
+          "anchor": "Source : jmlawfirm.com/contact",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-28"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/marchioni-and-associates-llc",
+          "source_page_title": "MARCHIONI & ASSOCIATES, LLC — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.jmlawfirm.com/contact",
+          "anchor": "jmlawfirm.com/contact (source, opens in a new tab)",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-28"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/marchioni-and-associates-llc",
+          "source_page_title": "MARCHIONI & ASSOCIATES, LLC — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.jmlawfirm.com/practice-areas/estates/estate-planning",
+          "anchor": "jmlawfirm.com/practice-areas/estates/estate-planning (opens in a new tab)",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-28"
+        },
+        {
+          "source_page": "https://threebestrated.com/real-estate-lawyers-in-rochester-ny",
+          "source_page_title": "3 Best Real Estate Lawyers in Rochester, NY - Expert Recommendations",
+          "target_page": "https://www.jmlawfirm.com/contact",
+          "anchor": "Schedule Consultation",
+          "domain_authority": "86",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-26"
+        },
+        {
+          "source_page": "https://threebestrated.com/real-estate-lawyers-in-rochester-ny",
+          "source_page_title": "3 Best Real Estate Lawyers in Rochester, NY - Expert Recommendations",
+          "target_page": "https://www.jmlawfirm.com/our-team/attorneys/john-marchioni",
+          "anchor": "jmlawfirm.com/our-team/attorneys...",
+          "domain_authority": "86",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-keywords-www-jmlawfirm-com.json",
+      "competitorId": "www-jmlawfirm-com",
+      "type": "positions",
+      "rowCount": 100,
+      "topRows": [
+        {
+          "keyword": "marchioni and associates",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "8",
+          "estimated_traffic": "108"
+        },
+        {
+          "keyword": "john marchioni",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/",
+          "search_volume": "170",
+          "cpc": "2.83",
+          "difficulty": "7",
+          "estimated_traffic": "24"
+        },
+        {
+          "keyword": "rochester law firm",
+          "position": "24",
+          "previous_position": "24",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/our-team/attorneys",
+          "search_volume": "480",
+          "cpc": "4.21",
+          "difficulty": "18",
+          "estimated_traffic": "14"
+        },
+        {
+          "keyword": "marchioni and associates",
+          "position": "79",
+          "previous_position": "79",
+          "position_change": "0",
+          "url": "http://www.jmlawfirm.com/",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "8",
+          "estimated_traffic": "12"
+        },
+        {
+          "keyword": "marchioni and associates",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/our-team/attorneys",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "8",
+          "estimated_traffic": "12"
+        },
+        {
+          "keyword": "real estate attorneys in rochester ny",
+          "position": "4",
+          "previous_position": "4",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "6",
+          "estimated_traffic": "12"
+        },
+        {
+          "keyword": "real estate attorneys rochester ny",
+          "position": "4",
+          "previous_position": "4",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "9",
+          "estimated_traffic": "11"
+        },
+        {
+          "keyword": "rochester ny legal jobs",
+          "position": "25",
+          "previous_position": "25",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/careers",
+          "search_volume": "320",
+          "cpc": "0.04",
+          "difficulty": "5",
+          "estimated_traffic": "11"
+        },
+        {
+          "keyword": "attorney positions rochester ny",
+          "position": "29",
+          "previous_position": "29",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/careers",
+          "search_volume": "260",
+          "cpc": "0.03",
+          "difficulty": "9",
+          "estimated_traffic": "10"
+        },
+        {
+          "keyword": "attorney rochester",
+          "position": "27",
+          "previous_position": "27",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/our-team/attorneys",
+          "search_volume": "910",
+          "cpc": "5.82",
+          "difficulty": "17",
+          "estimated_traffic": "10"
+        },
+        {
+          "keyword": "john marchioni attorney",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/",
+          "search_volume": "50",
+          "cpc": "0",
+          "difficulty": "10",
+          "estimated_traffic": "9"
+        },
+        {
+          "keyword": "legal jobs rochester new york",
+          "position": "29",
+          "previous_position": "29",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/careers",
+          "search_volume": "320",
+          "cpc": "0.04",
+          "difficulty": "6",
+          "estimated_traffic": "8"
+        },
+        {
+          "keyword": "real estate attorney rochester ny",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "http://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "8",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "real estate lawyer rochester ny",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "http://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "8",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "real estate attorneys rochester ny",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "http://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "9",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "real estate attorneys in rochester ny",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "http://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "6",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "legal jobs rochester ny",
+          "position": "30",
+          "previous_position": "30",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/careers",
+          "search_volume": "320",
+          "cpc": "0.04",
+          "difficulty": "5",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "marchioni and associates",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/contact",
+          "search_volume": "590",
+          "cpc": "0",
+          "difficulty": "8",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "real estate attorney rochester ny",
+          "position": "5",
+          "previous_position": "5",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "8",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "real estate lawyer rochester ny",
+          "position": "6",
+          "previous_position": "6",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "8",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "rochester ny real estate attorney",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "http://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "6",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "john marchioni",
+          "position": "3",
+          "previous_position": "3",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/our-team/attorneys",
+          "search_volume": "170",
+          "cpc": "2.83",
+          "difficulty": "7",
+          "estimated_traffic": "5"
+        },
+        {
+          "keyword": "rochester ny real estate attorney",
+          "position": "5",
+          "previous_position": "5",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "6",
+          "estimated_traffic": "5"
+        },
+        {
+          "keyword": "attorney rochester new york",
+          "position": "30",
+          "previous_position": "30",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/our-team/attorneys",
+          "search_volume": "390",
+          "cpc": "5.82",
+          "difficulty": "18",
+          "estimated_traffic": "4"
+        },
+        {
+          "keyword": "john nacca attorney",
+          "position": "13",
+          "previous_position": "13",
+          "position_change": "0",
+          "url": "https://www.jmlawfirm.com/our-team/attorneys",
+          "search_volume": "260",
+          "cpc": "0",
+          "difficulty": "7",
+          "estimated_traffic": "4"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-backlinks-www-trevettcristo-com.json",
+      "competitorId": "www-trevettcristo-com",
+      "type": "backlinks",
+      "rowCount": 19,
+      "topRows": [
+        {
+          "source_page": "https://intently.co/suppliers/United+States/Rochester/Mediation+Services",
+          "source_page_title": "Mediation Services in Rochester | 20 listed - Intently",
+          "target_page": "https://www.trevettcristo.com/speciality/mediation-and-arbitration-services",
+          "anchor": "Visit website",
+          "domain_authority": "67",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-24"
+        },
+        {
+          "source_page": "https://intently.co/suppliers/United+States/Rochester/Mediation+Services",
+          "source_page_title": "Mediation Services in Rochester | 20 listed - Intently",
+          "target_page": "https://www.trevettcristo.com/speciality/mediation-and-arbitration-services",
+          "anchor": "www.trevettcristo.com",
+          "domain_authority": "67",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-24"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/attorneys/estate-planning-attorney/new-york/rochester/page/2/",
+          "source_page_title": "Estate Planning Attorneys in Rochester, New York — Page 2 | AttorneysListed",
+          "target_page": "http://www.trevettcristo.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-09"
+        },
+        {
+          "source_page": "https://yellowpagesusa.com/legal_services/new-york/spencer",
+          "source_page_title": "Legal Services in Spencer, NY | Yellow Pages USA",
+          "target_page": "http://www.trevettcristo.com/",
+          "anchor": "Website ↗",
+          "domain_authority": "2",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-09"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/general-practice-attorneys/trevett-cristo/",
+          "source_page_title": "Trevett Cristo — General Practice Attorney in Brighton, NY | New York Law TV",
+          "target_page": "http://www.trevettcristo.com/contact-us",
+          "anchor": "Website",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-06"
+        },
+        {
+          "source_page": "https://newyorklawtv.com/directory/general-practice-attorneys/trevett-cristo/",
+          "source_page_title": "Trevett Cristo — General Practice Attorney in Brighton, NY | New York Law TV",
+          "target_page": "http://www.trevettcristo.com/contact-us",
+          "anchor": "trevettcristo.com",
+          "domain_authority": "3",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-06"
+        },
+        {
+          "source_page": "https://www.lexpilot.us/firms/trevettcristo",
+          "source_page_title": "Trevettcristo — Criminal Defense Law Firm in... | LexPilot",
+          "target_page": "https://trevettcristo.com/",
+          "anchor": "Contact / Visit Website",
+          "domain_authority": "1",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-10-03"
+        },
+        {
+          "source_page": "http://www.s18133424.onlinehome-server.com/L/US/NY/Rochester/Lawyers.html",
+          "source_page_title": "Rochester Legal Services",
+          "target_page": "http://www.trevettcristo.com/",
+          "anchor": "Trevett Cristo Salzer &amp Andolina P C",
+          "domain_authority": "48",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-10-01"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/attorneys/bankruptcy-attorney/new-york/page/5/",
+          "source_page_title": "Bankruptcy Attorneys in New York — Page 5 | AttorneysListed",
+          "target_page": "http://www.trevettcristo.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-30"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/attorneys/divorce-lawyer/new-york/rochester/",
+          "source_page_title": "Divorce Lawyers in Rochester, New York | AttorneysListed",
+          "target_page": "http://www.trevettcristo.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-30"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/location/rochester/page/6/",
+          "source_page_title": "Rochester Lawyers — Page 6 | AttorneysListed",
+          "target_page": "http://www.trevettcristo.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-30"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/attorneys/bankruptcy-attorney/new-york/rochester/",
+          "source_page_title": "Bankruptcy Attorneys in Rochester, New York | AttorneysListed",
+          "target_page": "http://www.trevettcristo.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-29"
+        },
+        {
+          "source_page": "https://attorneyslisted.com/attorneys/family-law-attorney/new-york/rochester/",
+          "source_page_title": "Family Law Attorneys in Rochester, New York | AttorneysListed",
+          "target_page": "http://www.trevettcristo.com/",
+          "anchor": "Website",
+          "domain_authority": "16",
+          "page_authority": "0",
+          "nofollow": "yes",
+          "first_seen": "2026-09-29"
+        },
+        {
+          "source_page": "https://doineedlegaladvice.com/directory/trevett-cristo-p-c-rochester",
+          "source_page_title": "Trevett Cristo P.C. | DoINeedLegalAdvice.com",
+          "target_page": "https://www.trevettcristo.com/",
+          "anchor": "https://www.trevettcristo.com",
+          "domain_authority": "26",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-29"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/trevett-cristo",
+          "source_page_title": "Trevett Cristo — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.trevettcristo.com/",
+          "anchor": "Contact firm — Trevett Cristo , trevettcristo.com (opens in a new tab)",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-27"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/trevett-cristo",
+          "source_page_title": "Trevett Cristo — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.trevettcristo.com/",
+          "anchor": "trevettcristo.com (opens in a new tab)",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-27"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/trevett-cristo",
+          "source_page_title": "Trevett Cristo — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.trevettcristo.com/contact-us",
+          "anchor": "trevettcristo.com/contact-us (opens in a new tab)",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-27"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/trevett-cristo",
+          "source_page_title": "Trevett Cristo — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.trevettcristo.com/contact-us",
+          "anchor": "trevettcristo.com/contact-us (source, opens in a new tab)",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-27"
+        },
+        {
+          "source_page": "https://www.estateplan.now/firms/trevett-cristo",
+          "source_page_title": "Trevett Cristo — estate planning, Rochester, NY · EstatePlan.now",
+          "target_page": "https://www.trevettcristo.com/contact-us",
+          "anchor": "Source : trevettcristo.com/contact-us",
+          "domain_authority": "0",
+          "page_authority": "0",
+          "nofollow": "no",
+          "first_seen": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "filename": "seranking-keywords-www-trevettcristo-com.json",
+      "competitorId": "www-trevettcristo-com",
+      "type": "positions",
+      "rowCount": 100,
+      "topRows": [
+        {
+          "keyword": "trevett cristo attorneys",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "480",
+          "cpc": "3.54",
+          "difficulty": "10",
+          "estimated_traffic": "113"
+        },
+        {
+          "keyword": "trevett cristo",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "480",
+          "cpc": "3.54",
+          "difficulty": "9",
+          "estimated_traffic": "106"
+        },
+        {
+          "keyword": "de la sangre de cristo",
+          "position": "16",
+          "previous_position": "",
+          "position_change": "new",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "6600",
+          "cpc": "1.31",
+          "difficulty": "52",
+          "estimated_traffic": "23"
+        },
+        {
+          "keyword": "rochester law firm",
+          "position": "16",
+          "previous_position": "16",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "480",
+          "cpc": "4.21",
+          "difficulty": "18",
+          "estimated_traffic": "17"
+        },
+        {
+          "keyword": "lawyer rochester",
+          "position": "7",
+          "previous_position": "7",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "910",
+          "cpc": "5.82",
+          "difficulty": "22",
+          "estimated_traffic": "16"
+        },
+        {
+          "keyword": "trevett cristo attorneys",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/attorneys",
+          "search_volume": "480",
+          "cpc": "3.54",
+          "difficulty": "10",
+          "estimated_traffic": "16"
+        },
+        {
+          "keyword": "trevett cristo attorneys",
+          "position": "27",
+          "previous_position": "27",
+          "position_change": "0",
+          "url": "http://www.trevettcristo.com/",
+          "search_volume": "480",
+          "cpc": "3.54",
+          "difficulty": "10",
+          "estimated_traffic": "14"
+        },
+        {
+          "keyword": "real estate attorneys rochester ny",
+          "position": "3",
+          "previous_position": "3",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/speciality/residential-real-estate",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "9",
+          "estimated_traffic": "13"
+        },
+        {
+          "keyword": "attorney rochester",
+          "position": "18",
+          "previous_position": "18",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/attorneys",
+          "search_volume": "910",
+          "cpc": "5.82",
+          "difficulty": "17",
+          "estimated_traffic": "13"
+        },
+        {
+          "keyword": "trevett cristo",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/attorneys",
+          "search_volume": "480",
+          "cpc": "3.54",
+          "difficulty": "9",
+          "estimated_traffic": "11"
+        },
+        {
+          "keyword": "real estate attorney rochester ny",
+          "position": "4",
+          "previous_position": "4",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/speciality/residential-real-estate",
+          "search_volume": "390",
+          "cpc": "2.25",
+          "difficulty": "8",
+          "estimated_traffic": "10"
+        },
+        {
+          "keyword": "trevett cristo",
+          "position": "48",
+          "previous_position": "48",
+          "position_change": "0",
+          "url": "http://www.trevettcristo.com/",
+          "search_volume": "480",
+          "cpc": "3.54",
+          "difficulty": "9",
+          "estimated_traffic": "10"
+        },
+        {
+          "keyword": "david coletti",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/article/david-coletti-joins-trevett-cristo-pc-partner",
+          "search_volume": "70",
+          "cpc": "0",
+          "difficulty": "5",
+          "estimated_traffic": "9"
+        },
+        {
+          "keyword": "david ealy",
+          "position": "1",
+          "previous_position": "1",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/attorneys/david-h-ealy",
+          "search_volume": "70",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "9"
+        },
+        {
+          "keyword": "attorney david ross",
+          "position": "6",
+          "previous_position": "6",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/attorneys/david-g-ross",
+          "search_volume": "170",
+          "cpc": "0",
+          "difficulty": "6",
+          "estimated_traffic": "9"
+        },
+        {
+          "keyword": "attorneys in rochester",
+          "position": "4",
+          "previous_position": "4",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "480",
+          "cpc": "3.33",
+          "difficulty": "18",
+          "estimated_traffic": "9"
+        },
+        {
+          "keyword": "rochester ny law firms",
+          "position": "23",
+          "previous_position": "23",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "480",
+          "cpc": "4.21",
+          "difficulty": "26",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "ny child support payments",
+          "position": "21",
+          "previous_position": "21",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/article/basics-getting-child-support-new-york-state",
+          "search_volume": "320",
+          "cpc": "0",
+          "difficulty": "30",
+          "estimated_traffic": "7"
+        },
+        {
+          "keyword": "attorneys rochester new york",
+          "position": "12",
+          "previous_position": "12",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "390",
+          "cpc": "5.09",
+          "difficulty": "16",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "melanie slaughter",
+          "position": "4",
+          "previous_position": "4",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/attorneys/melanie-slaughter-wolk",
+          "search_volume": "320",
+          "cpc": "0",
+          "difficulty": "4",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "attorney rochester new york",
+          "position": "17",
+          "previous_position": "17",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/",
+          "search_volume": "390",
+          "cpc": "5.82",
+          "difficulty": "18",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "law firms in rochester",
+          "position": "23",
+          "previous_position": "23",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/our-firm",
+          "search_volume": "480",
+          "cpc": "4.21",
+          "difficulty": "28",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "rochester new york bankruptcy attorneys",
+          "position": "11",
+          "previous_position": "11",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/speciality/bankruptcy",
+          "search_volume": "390",
+          "cpc": "3.65",
+          "difficulty": "6",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "rochester new york bankruptcy attorneys",
+          "position": "29",
+          "previous_position": "29",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/attorneys/david-h-ealy",
+          "search_volume": "390",
+          "cpc": "3.65",
+          "difficulty": "6",
+          "estimated_traffic": "6"
+        },
+        {
+          "keyword": "attorney in rochester ny",
+          "position": "16",
+          "previous_position": "16",
+          "position_change": "0",
+          "url": "https://www.trevettcristo.com/attorneys",
+          "search_volume": "390",
+          "cpc": "5.82",
+          "difficulty": "21",
+          "estimated_traffic": "5"
+        }
+      ]
+    }
+  ]
+}

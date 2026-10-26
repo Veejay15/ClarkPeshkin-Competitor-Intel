@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-26",
+  "previousDate": "2026-10-19",
+  "diffs": [
+    {
+      "competitorId": "www-tullylegal-com",
+      "newUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/what-to-know-about-opms-new-time-in-grade-rules-and-when-to-seek-legal-assistance/",
+          "lastmod": "2026-10-20T19:21:39+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/when-military-service-intersects-with-the-c-suite-understanding-executive-userra-claims/",
+          "lastmod": "2026-10-22T21:06:27+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/residency-determinations-and-investigations-in-new-york-school-districts/",
+          "lastmod": "2026-10-23T17:38:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/navigating-child-custody-relocation-in-new-york-3/",
+          "lastmod": "2026-10-20T12:44:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/san-diego-source-announces-steve-herricks-promotion-to-managing-partner-of-tully-rinckey-pllcs-san-diego-office/",
+          "lastmod": "2023-04-24T16:50:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/marking-2-years-since-alleged-gang-rape-at-cornell/",
+          "lastmod": "2026-10-20T13:31:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/colonie-central-high-school-students-protest-in-light-of-racist-video/",
+          "lastmod": "2026-10-20T13:52:13+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/trump-administration-to-let-agencies-promote-federal-employees-more-quickly/",
+          "lastmod": "2026-10-20T13:55:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/pentagon-office-for-ai-oversight-is-understaffed-government-watchdog-finds/",
+          "lastmod": "2026-10-21T13:02:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/county-sewer-clog-floods-halfmoon-home-with-raw-sewage-leaving-homeowner-with-50k-mess/",
+          "lastmod": "2026-10-23T12:49:37+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/district-attorney-bill-fitzpatrick-on-why-he-fired-prosecutor-rob-moran/",
+          "lastmod": "2026-10-26T14:44:42+00:00"
+        }
+      ],
+      "removedUrls": [
+        {
+          "url": "https://www.tullylegal.com/attorneys/juliana-preisman/",
+          "lastmod": "2026-09-15T22:30:08+00:00"
+        }
+      ],
+      "updatedUrls": [
+        {
+          "url": "https://www.tullylegal.com/resources/articles/",
+          "lastmod": "2026-10-23T17:38:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/protecting-those-who-serve-what-sets-userra-apart-from-other-employment-laws/",
+          "lastmod": "2026-10-19T17:14:17+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/fers-disability-retirement-faqs-from-federal-employees/",
+          "lastmod": "2026-10-20T13:54:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/distorting-bruen/",
+          "lastmod": "2026-10-22T19:42:55+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/federal-employees-who-served-in-the-military-may-be-entitled-to-paid-military-leave-claims/",
+          "lastmod": "2026-10-22T19:43:40+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/articles/modifying-child-support-payments/",
+          "lastmod": "2026-10-22T19:48:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/resources/consultation-guide/consultation-faq/",
+          "lastmod": "2026-10-20T13:35:02+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/",
+          "lastmod": "2026-10-22T20:06:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/attorneys/elaine-vadas-hamdan/",
+          "lastmod": "2026-10-22T20:06:51+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/",
+          "lastmod": "2026-10-26T15:44:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/cle-introduction-to-estate-planning-3/",
+          "lastmod": "2026-10-20T14:00:43+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/understanding-the-differences-between-clearances-public-trusts-and-suitability-determinations-2/",
+          "lastmod": "2026-10-20T14:03:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/cle-employment-policies/",
+          "lastmod": "2026-10-22T19:40:22+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/divorce-and-bankruptcy-how-much-protection-do-you-have/",
+          "lastmod": "2026-10-22T19:41:52+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/do-i-need-a-legal-consultation-for-my-federal-employment-issue-3/",
+          "lastmod": "2026-10-26T15:35:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/do-i-need-a-legal-consultation-for-my-federal-employment-issue-4/",
+          "lastmod": "2026-10-26T15:35:28+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/do-i-need-a-legal-consultation-for-my-federal-employment-issue-2/",
+          "lastmod": "2026-10-26T15:35:56+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/do-i-need-a-legal-consultation-for-my-federal-employment-issue/",
+          "lastmod": "2026-10-26T15:36:18+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/identifying-the-basis-of-your-eeo-complaint-and-filing-your-informal-eeo-complaint/",
+          "lastmod": "2026-10-26T15:36:50+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/identifying-your-basis-of-your-eeo-complaint/",
+          "lastmod": "2026-10-26T15:37:01+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/the-impact-of-security-clearance-denials-or-suspensions-on-your-federal-employment-2/",
+          "lastmod": "2026-10-26T15:41:19+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/understanding-the-eeo-formal-complaint-process/",
+          "lastmod": "2026-10-26T15:42:37+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/what-to-know-about-the-doe-security-clearance-adjudication-process/",
+          "lastmod": "2026-10-26T15:43:00+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/events/when-to-consult-with-a-federal-employment-attorney/",
+          "lastmod": "2026-10-26T15:44:24+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/",
+          "lastmod": "2026-10-26T15:45:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/syracuse-ny/legal-services/syracuse-business-law/",
+          "lastmod": "2026-10-20T14:10:29+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/washington-dc/legal-services/washington-d-c-business-law/",
+          "lastmod": "2026-10-20T14:11:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/saratoga-springs-ny/legal-services/saratoga-business-law/",
+          "lastmod": "2026-10-20T14:12:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/manhattan-ny/legal-services/real-estate/property-disputes/",
+          "lastmod": "2026-10-20T14:13:11+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/manhattan-ny/legal-services/manhattan-litigation-attorney/",
+          "lastmod": "2026-10-20T14:15:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/manhattan-ny/legal-services/manhattan-business-law/",
+          "lastmod": "2026-10-20T14:46:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/manhattan-ny/legal-services/estate-planning-elder-law/",
+          "lastmod": "2026-10-20T14:47:37+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/houston-tx/legal-services/houston-business-law/",
+          "lastmod": "2026-10-20T14:48:36+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/buffalo-ny/legal-services/buffalo-business-law/",
+          "lastmod": "2026-10-20T14:49:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/austin-tx/legal-services/austin-business-law/",
+          "lastmod": "2026-10-20T14:49:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/albany-ny/legal-services/albany-business-law/",
+          "lastmod": "2026-10-20T14:52:12+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/albany-ny/",
+          "lastmod": "2026-10-20T19:29:39+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/albany-ny/legal-services/criminal-law/albany-solicitation-lawyer/",
+          "lastmod": "2026-10-26T15:38:26+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/manhattan-ny/legal-services/municipal-law/",
+          "lastmod": "2026-10-26T15:38:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/manhattan-ny/legal-services/real-estate/",
+          "lastmod": "2026-10-26T15:39:48+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/locations/austin-tx/",
+          "lastmod": "2026-10-26T15:45:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/",
+          "lastmod": "2026-10-26T14:44:42+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/our-firm/news/law-firm-tully-rinckey-to-open-1st-midwest-office-in-columbus/",
+          "lastmod": "2026-10-19T20:15:57+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/",
+          "lastmod": "2026-10-26T15:56:06+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/new-york-employment-law/your-rights-under-userra/",
+          "lastmod": "2026-10-19T17:05:47+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/estate-planning-elder-law/faq/",
+          "lastmod": "2026-10-20T13:56:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/security-clearance-representation/security-clearance-faq/",
+          "lastmod": "2026-10-20T13:56:59+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/whistleblower-representation/faq/",
+          "lastmod": "2026-10-20T14:19:25+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/union-legal-services/grievance-arbitration/",
+          "lastmod": "2026-10-20T14:52:49+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/security-clearance-representation/security-clearance-issues-for-dual-citizens/",
+          "lastmod": "2026-10-20T14:53:37+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/military-law/withdrawal-of-federal-recognition-proceedings/",
+          "lastmod": "2026-10-20T14:54:04+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/military-law/veoa/",
+          "lastmod": "2026-10-20T14:57:10+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/military-law/userra/",
+          "lastmod": "2026-10-20T14:57:39+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/military-law/spice-court-martial-cases/",
+          "lastmod": "2026-10-20T15:08:17+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/military-law/military-related-mesothelioma/",
+          "lastmod": "2026-10-20T15:11:33+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/military-law/military-divorce/",
+          "lastmod": "2026-10-20T15:11:58+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/federal-employment-law/",
+          "lastmod": "2026-10-22T19:34:08+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/military-law/",
+          "lastmod": "2026-10-22T19:37:03+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/criminal-law/",
+          "lastmod": "2026-10-26T15:52:14+00:00"
+        },
+        {
+          "url": "https://www.tullylegal.com/legal-services/automotive-dealership-representation/",
+          "lastmod": "2026-10-26T15:56:06+00:00"
+        }
+      ]
+    },
+    {
+      "competitorId": "www-dcfesq-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-evansfox-com",
+      "newUrls": [
+        {
+          "url": "https://www.evansfox.com/james-brennan/",
+          "lastmod": "2026-10-20T18:51:33+00:00"
+        }
+      ],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-jmlawfirm-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    },
+    {
+      "competitorId": "www-trevettcristo-com",
+      "newUrls": [],
+      "removedUrls": [],
+      "updatedUrls": []
+    }
+  ]
+}
